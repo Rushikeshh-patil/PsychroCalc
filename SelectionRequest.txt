@@ -1,0 +1,41 @@
+Hi
+
+I want to get selections for 4 AHUs.
+
+The outside air conditions are as follows:
+Summer DB: 91
+Summer WB: 71
+Winter DB: 38.9
+
+The water side temperatures are as follows:
+CHWS: 42
+CHWR: 52
+HHWS: 140
+HHWR: 100
+
+The AHU information is as follows:
+     - doas 1
+          - Supply Air CFM: 16900
+          - Return Air CFM: 16800
+          - OA CFM: 5700
+          - Cooling LAT: 55 DB and 52.3 WB
+          - Room set point: 78 DB and 60 WB
+     - AHU 2
+          - Supply Air CFM: 84400
+          - Return Air CFM: 84400
+          - OA CFM: 31400
+          - Cooling LAT: 55 DB and 52 WB
+          - Room set point: 78 DB and 60 WB
+     - AHU 3
+          - Supply Air CFM: 132000
+          - Return Air CFM: 132000
+          - OA CFM: 47300
+          - Cooling LAT: 55 DB and 52 WB
+          - Room set point: 78 DB and 60 WB
+     - AHU 4
+          - Supply Air CFM: 132000
+          - Return Air CFM: 132000
+          - OA CFM: 47300
+          - Cooling LAT: 55 DB and 52 WB
+          - Room set point: 78 DB and 60 WB
+
