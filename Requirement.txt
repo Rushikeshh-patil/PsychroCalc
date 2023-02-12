@@ -1,0 +1,1 @@
+Open excel and Go to File/options/Proofing/AutocorrectOptions/autoformatasyoutype/ And disable fill formulas in tables checkbox.
