@@ -3,46 +3,46 @@ Hi
 I want to get selections for 2 AHUs.
 
 The outside air conditions are as follows:
-Summer DB: 91
-Summer WB: 71
-Winter DB: 38.9
+Summer DB: 
+Summer WB: 
+Winter DB: 
 
 The water side temperatures are as follows:
-CHWS: 42
-CHWR: 52
-HHWS: 140
-HHWR: 100
+CHWS: 
+CHWR: 
+HHWS: 
+HHWR: 
 
 The AHU information is as follows:
+     - 
+          - Supply Air CFM: 1800
+          - Return Air CFM: 78
+          - OA CFM: 0
+          - Cooling LAT: 21.62 DB and 28416.15 WB
+          - Room set point: 195 DB and 0 WB
      - AHU 1
-          - Supply Air CFM: 5000
-          - Return Air CFM: 5000
-          - OA CFM: 1700
-          - Cooling LAT: 55 DB and 52.3 WB
-          - Room set point: 78 DB and 60 WB
-     - AHU 2
-          - Supply Air CFM: 5100
-          - Return Air CFM: 4500
-          - OA CFM: 1600
-          - Cooling LAT: 55 DB and 52.3 WB
-          - Room set point: 78 DB and 60 WB
+          - Supply Air CFM: 1800
+          - Return Air CFM: 78
+          - OA CFM: 0
+          - Cooling LAT: 21.62 DB and 28416.15 WB
+          - Room set point: 195 DB and 0 WB
 Below are the options that the AHU shall be provided with - 
-     - AHU-1
+     - 
           - Discharge Cinfiguration: SIDE
           - Return Cinfiguration: END 
-          - Supply fan VFD: YES
+          - Supply fan VFD: 
           - Return fan VFD: YES
           - Economizer: YES
           - Heat recovery: YES
           - Prehet coil: YES
            - Re-heat coil: YES
-           - Single point power: YES
-           - UV Lights: NO
-           - Pre-Filter: MERV 8
-           - Final filter: MERV 14
-           - ATFP Dampers: YES
-           - Hunidifier: NO
-     - AHU 2
+           - Single point power: NO
+           - UV Lights: YES
+           - Pre-Filter: NO
+           - Final filter: MERV 8
+           - ATFP Dampers: MERV 14
+           - Hunidifier: YES
+     - AHU 1
           - Discharge Cinfiguration: 
           - Return Cinfiguration: 
           - Supply fan VFD: 
