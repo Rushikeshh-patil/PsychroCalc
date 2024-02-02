@@ -1,0 +1,18 @@
+Hi
+
+I want to get selections for 0 AHUs.
+
+The outside air conditions are as follows:
+Summer DB: 90
+Summer WB: 65
+Winter DB: 60
+
+The water side temperatures are as follows:
+CHWS: 42
+CHWR: 52
+HHWS: 140
+HHWR: 100
+
+The AHU information is as follows:
+Below are the options that the AHU shall be provided with - 
+
