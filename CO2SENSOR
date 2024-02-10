@@ -5,34 +5,34 @@ Application.Volatile
     Dim co2required As String
     If energyrecovery = "yes" Then
         If area < 200 Then
-            If occupant_airflow < Application.WorksheetFunction.VLookup(climateZone, "'ASHRAE Table'!Y3:AB21", 2, False) Then
+            If occupant_airflow < Application.WorksheetFunction.VLookup(climateZone, "DCV_noEArecovery[#All]", 2) Then
                 co2required = "YES"
             End If
         
         ElseIf area < 399 Then
-                If occupant_airflow < Application.WorksheetFunction.VLookup(climateZone, "'ASHRAE Table'!Y3:AB21", 3, False) Then
+                If occupant_airflow < Application.WorksheetFunction.VLookup(climateZone, "DCV_noEArecovery[#All]", 3) Then
                     co2required = "YES"
                 End If
         
         Else
-                If occupant_airflow < Application.WorksheetFunction.VLookup(climateZone, "'ASHRAE Table'!Y3:AB21", 4, False) Then
+                If occupant_airflow < Application.WorksheetFunction.VLookup(climateZone, "DCV_noEArecovery[#All]", 4) Then
                     co2required = "YES"
                     
                 End If
     Else
    
         If area < 200 Then
-            If occupant_airflow < Application.WorksheetFunction.VLookup(climateZone, "'ASHRAE Table'!U3:X21", 2, False) Then
+            If occupant_airflow < Application.WorksheetFunction.VLookup(climateZone, "DCV_EARecovery[#All]", 2) Then
                 co2required = "YES"
             End If
             
         ElseIf area < 399 Then
-            If occupant_airflow < Application.WorksheetFunction.VLookup(climateZone, "'ASHRAE Table'!U3:X21", 3, False) Then
+            If occupant_airflow < Application.WorksheetFunction.VLookup(climateZone, "DCV_EARecovery[#All]", 3) Then
                 co2required = "YES"
             End If
         
         Else
-            If occupant_airflow < Application.WorksheetFunction.VLookup(climateZone, "'ASHRAE Table'!U3:X21", 4, False) Then
+            If occupant_airflow < Application.WorksheetFunction.VLookup(climateZone, "DCV_EARecovery[#All]", 4) Then
                 co2required = "YES"
                 
             End If
