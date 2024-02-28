@@ -1,11 +1,11 @@
 Hi
 
-I want to get selections for 0 AHUs.
+I want to get selections for -1 AHUs.
 
 The outside air conditions are as follows:
 Summer DB: 90
 Summer WB: 65
-Winter DB: 60
+Winter DB: 30
 
 The water side temperatures are as follows:
 CHWS: 42
@@ -14,5 +14,32 @@ HHWS: 140
 HHWR: 100
 
 The AHU information is as follows:
+     - 
+          - Supply Air CFM: N/A
+          - Return Air CFM: 78
+          - OA CFM: 65
+          - Cooling LAT: 20.8764326544634 DB and N/A WB
+          - Room set point: N/A DB and 90 WB
+     - AHU1
+          - Supply Air CFM: 600
+          - Return Air CFM: 78
+          - OA CFM: 65
+          - Cooling LAT: 20.8764326544634 DB and 17629.08 WB
+          - Room set point: 204 DB and 90 WB
 Below are the options that the AHU shall be provided with - 
+     - AHU1
+          - Discharge Configuration: 
+          - Return Configuration: 
+          - Supply fan VFD: False
+          - Return fan VFD: False
+          - Economizer: False
+          - Heat recovery: False
+          - Preheat coil: True
+           - Re-heat coil: False
+           - Single point power: False
+           - UV Lights: True
+           - Pre-Filter: MERV 8
+           - Final filter: MERV 13
+           - ATFP Dampers: False
+           - Humidifier: False
 
