@@ -1,0 +1,12 @@
+Sequence of operation for {{ equipment.name }} - 
+
+Note - These are auto generated sequences. Please read carefully before using them on the drawings as is. The tables may need to be edited for the specific project. 
+
+
+{{ Section.title }} - 
+
+ - {{ subsection.title }}
+ - {{ subsection.content }} 
+ - {{ subsection.table }}
+ - {{ subsection.figure }}
+	
