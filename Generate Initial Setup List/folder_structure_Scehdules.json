@@ -1,0 +1,344 @@
+{
+    "name": "SCHEDULES",
+    "type": "folder",
+    "contents": [
+        {
+            "name": "ELECTRICAL",
+            "type": "folder",
+            "contents": []
+        },
+        {
+            "name": "MECHANICAL",
+            "type": "folder",
+            "contents": [
+                {
+                    "name": "For review",
+                    "type": "folder",
+                    "contents": []
+                },
+                {
+                    "name": "AHU CHW & HHW~AHU SCHEDULE (CHW&HHW)~~.dwg",
+                    "type": "file"
+                },
+                {
+                    "name": "AHU DX PCKG~AHU SCHEDULE (DX PACKAGED)~~.dwg",
+                    "type": "file"
+                },
+                {
+                    "name": "AHU MAX SND~AHU MAX SOUND LEVEL SCHEDULE~~.dwg",
+                    "type": "file"
+                },
+                {
+                    "name": "AIR BAL~AIR BALANCE TABLE SCHEDULE (OSHPD)~~.dwg",
+                    "type": "file"
+                },
+                {
+                    "name": "AIR DIST~AIR DISTRIBUTION SCHEDULE~~.bak",
+                    "type": "file"
+                },
+                {
+                    "name": "AIR DIST~AIR DISTRIBUTION SCHEDULE~~.dwg",
+                    "type": "file"
+                },
+                {
+                    "name": "AIR DSGN~AIR DESIGN CONDITIONS SCHEDULE~~.dwg",
+                    "type": "file"
+                },
+                {
+                    "name": "AIR FILT~AIR FILTER SCHEDULE~~.dwg",
+                    "type": "file"
+                },
+                {
+                    "name": "AIR SEP~AIR SEPARATOR SCHEDULE~~.dwg",
+                    "type": "file"
+                },
+                {
+                    "name": "ASHRAE REFR CALC~ASHRAE STANDARD 15 REGRIGERANT COMPLIANCE CALC~~.dwg",
+                    "type": "file"
+                },
+                {
+                    "name": "CHEM POT FEED~CHEMICAL POT FEEDER~~.dwg",
+                    "type": "file"
+                },
+                {
+                    "name": "CHILLER~CHILLER SCHEDULE~~.dwg",
+                    "type": "file"
+                },
+                {
+                    "name": "COOL TOWR~CLOSED CIRCUT COOLING TOWER SCHEDULE~~.dwg",
+                    "type": "file"
+                },
+                {
+                    "name": "DOAS~DOAS SCHEDULE~~.dwg",
+                    "type": "file"
+                },
+                {
+                    "name": "DUCT CONST & LEAK~DUCT CONSTRUCTION AND LEAK TEST SCHEDULE~~.dwg",
+                    "type": "file"
+                },
+                {
+                    "name": "ECONO~ECONOMIZER SCHEDULE~~.dwg",
+                    "type": "file"
+                },
+                {
+                    "name": "ELEC U.HEAT~ELECTRIC UNIT HEATER SCHEDULE~~.bak",
+                    "type": "file"
+                },
+                {
+                    "name": "ELEC U.HEAT~ELECTRIC UNIT HEATER SCHEDULE~~.dwg",
+                    "type": "file"
+                },
+                {
+                    "name": "EXH FAN~EXHAUST FAN SCHEDULE~~.dwg",
+                    "type": "file"
+                },
+                {
+                    "name": "EXPN JONT~EXPANSION JOINT SCHEDULE~~.dwg",
+                    "type": "file"
+                },
+                {
+                    "name": "EXPN TNK~EXPANSION TANK SCHEDULE~~.dwg",
+                    "type": "file"
+                },
+                {
+                    "name": "FAN COIL~FAN COIL SCHEDULE~~.dwg",
+                    "type": "file"
+                },
+                {
+                    "name": "FAN HEPA FLT~FAN POWERED HEPA FILTER SCHEDULE~~.dwg",
+                    "type": "file"
+                },
+                {
+                    "name": "FIIN TUB HEAT UN~FINNED TUBE HEATING UNIT SCHEDULE~~.dwg",
+                    "type": "file"
+                },
+                {
+                    "name": "GAS U.HEAT~GAS FIRED UNIT HEATER SCHEDULE~~.dwg",
+                    "type": "file"
+                },
+                {
+                    "name": "GBOILER~GAS BOILER SCHEDULE~~.dwg",
+                    "type": "file"
+                },
+                {
+                    "name": "HHW U.HEAT~HHW UNIT HEATER SCHEDULE~~.dwg",
+                    "type": "file"
+                },
+                {
+                    "name": "HLVS~HLVS SCHEDULE~~.dwg",
+                    "type": "file"
+                },
+                {
+                    "name": "HPBOILER~HEAT PUMP BOILER SCHEDULE~~.dwg",
+                    "type": "file"
+                },
+                {
+                    "name": "LOUVER~LOUVER SCHEDULE~~.dwg",
+                    "type": "file"
+                },
+                {
+                    "name": "MAU~MAKE UP AIR UNIT SCHEDULE~~.dwg",
+                    "type": "file"
+                },
+                {
+                    "name": "MIX BOX~MIXING BOX SCHEDULE~~.dwg",
+                    "type": "file"
+                },
+                {
+                    "name": "M~MOTOR SCHEDULE~~.dwg",
+                    "type": "file"
+                },
+                {
+                    "name": "PCKG HEAT~PACKAGE HEAT PUMP UNIT SCHEDULE~~.dwg",
+                    "type": "file"
+                },
+                {
+                    "name": "PROP GLYC MKUP~PROP GLYCOL MAKE-UP SYSTEM SCHEDULE~~.dwg",
+                    "type": "file"
+                },
+                {
+                    "name": "PTHP~PTHP SCHEDULE~~.dwg",
+                    "type": "file"
+                },
+                {
+                    "name": "PUMP~PUMP SCHEDULE~~.dwg",
+                    "type": "file"
+                },
+                {
+                    "name": "RHC~REHEAT COIL SCHEDULE~~.dwg",
+                    "type": "file"
+                },
+                {
+                    "name": "RHS~RADIANT HEATER SCHEDULE~~.dwg",
+                    "type": "file"
+                },
+                {
+                    "name": "SND ATTN2~SOUND ATTENUATOR OCTAVE SCHEDULE~~.dwg",
+                    "type": "file"
+                },
+                {
+                    "name": "SND ATTN~SOUND ATTENUATOR SCHEDULE~~.dwg",
+                    "type": "file"
+                },
+                {
+                    "name": "SPLT SYST~SPLIT SYSTEM SCHEDULE~~.dwg",
+                    "type": "file"
+                },
+                {
+                    "name": "STM BOILR~STEAM BOILER SCHEDULE~~.dwg",
+                    "type": "file"
+                },
+                {
+                    "name": "STM HUMDF~STEAM TO STEAM HUMIDIFIER SCHEDULE~~.dwg",
+                    "type": "file"
+                },
+                {
+                    "name": "VAV2~VAV SCHEDULE-2~~.dwg",
+                    "type": "file"
+                },
+                {
+                    "name": "VAV~VAV SCHEDULE~~.dwg",
+                    "type": "file"
+                },
+                {
+                    "name": "VENT~VENT SCHEDULE~~.dwg",
+                    "type": "file"
+                },
+                {
+                    "name": "VES~VEHICLE EXHAUST SCHEDULE~~.dwg",
+                    "type": "file"
+                },
+                {
+                    "name": "VFD~VFD SCHEDULE~~.dwg",
+                    "type": "file"
+                },
+                {
+                    "name": "VRF BRNCH~VRF BRANCH SELECTOR SCHEDULE~~.dwg",
+                    "type": "file"
+                },
+                {
+                    "name": "WSHP~WSHP SCHEDULE~~.bak",
+                    "type": "file"
+                },
+                {
+                    "name": "WSHP~WSHP SCHEDULE~~.dwg",
+                    "type": "file"
+                }
+            ]
+        },
+        {
+            "name": "PLUMBING",
+            "type": "folder",
+            "contents": [
+                {
+                    "name": "AC~AIR COMPRESSOR SCHEDULE~~.dwg",
+                    "type": "file"
+                },
+                {
+                    "name": "BDT~BLOW DOWN TANK SCHEDULE~~.dwg",
+                    "type": "file"
+                },
+                {
+                    "name": "DCWPS~DOMESTIC CW PIPE SIZING CHART~~.dwg",
+                    "type": "file"
+                },
+                {
+                    "name": "DEATSCH~DEAERATOR SCHEDULE~~.dwg",
+                    "type": "file"
+                },
+                {
+                    "name": "DHWPS~DOMESTIC HW PIPE SIZING CHART~~.dwg",
+                    "type": "file"
+                },
+                {
+                    "name": "DHWP~DOMESTIC HOT WATER PUMP SCHEDULE~~.dwg",
+                    "type": "file"
+                },
+                {
+                    "name": "DWBP~DOMESTIC WATER BOOSTER PUMP SCHEDULE~~.dwg",
+                    "type": "file"
+                },
+                {
+                    "name": "ET~EXPANSION TANK SCHEDULE~~.dwg",
+                    "type": "file"
+                },
+                {
+                    "name": "EWH~ELECTRIC WATER HEATER SCHEDULE~~.dwg",
+                    "type": "file"
+                },
+                {
+                    "name": "GI~GREASE INTERCEPTOR SCHEDULE~~.dwg",
+                    "type": "file"
+                },
+                {
+                    "name": "GWH~GAS WATER HEATER SCHEDULE~~.dwg",
+                    "type": "file"
+                },
+                {
+                    "name": "MAT~MATERIAL TYPE SCHEDULE~~.dwg",
+                    "type": "file"
+                },
+                {
+                    "name": "MEDGAS~MASTER MED GAS ALARM MONITOR POINTS~~.dwg",
+                    "type": "file"
+                },
+                {
+                    "name": "MEDVAC~MEDICAL VACCUM SYSTEM SCHEDULE~~.bak",
+                    "type": "file"
+                },
+                {
+                    "name": "MEDVAC~MEDICAL VACCUM SYSTEM SCHEDULE~~.dwg",
+                    "type": "file"
+                },
+                {
+                    "name": "MGV1~MED GAS OUTLET~~.dwg",
+                    "type": "file"
+                },
+                {
+                    "name": "MGV2~MED GAS OUTLET~~.dwg",
+                    "type": "file"
+                },
+                {
+                    "name": "MGV3~MED GAS ALARM~~.dwg",
+                    "type": "file"
+                },
+                {
+                    "name": "NG~NATURAL GAS LOAD SUMMARY~~.dwg",
+                    "type": "file"
+                },
+                {
+                    "name": "PEQUIP~PLUMBING EQUIPMENT SCHEDULE~~.dwg",
+                    "type": "file"
+                },
+                {
+                    "name": "PFXTR~ FIXTURE SCHEDULE~~.bak",
+                    "type": "file"
+                },
+                {
+                    "name": "PFXTR~ FIXTURE SCHEDULE~~.dwg",
+                    "type": "file"
+                },
+                {
+                    "name": "PRV~PRESSURE REDUCING VALVE SCHEDULE~~.dwg",
+                    "type": "file"
+                },
+                {
+                    "name": "STMTRP~STEAM TRAP SCHEDULE~~.dwg",
+                    "type": "file"
+                },
+                {
+                    "name": "ST~STORAGE TANK SCHEDULE~~.dwg",
+                    "type": "file"
+                },
+                {
+                    "name": "WPSI~WATER PSI CALCULATION SCHEDULE~~.dwg",
+                    "type": "file"
+                },
+                {
+                    "name": "WS~WATER SOFTENER SCHEDULE~~.dwg",
+                    "type": "file"
+                }
+            ]
+        }
+    ]
+}
