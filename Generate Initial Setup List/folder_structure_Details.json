@@ -2,1697 +2,1877 @@
     "name": "DETAILS",
     "type": "folder",
     "contents": [
-        {
-            "name": "MECHANICAL (GOVT 1-8)",
+      {
+        "name": "MECHANICAL (GOVT 1-8)",
+        "type": "folder",
+        "contents": [
+          {
+            "name": "100 Equipment",
             "type": "folder",
             "contents": [
-                {
-                    "name": "100 Equipment",
-                    "type": "folder",
-                    "contents": [
-                        {
-                            "name": "CEILING OR WALL",
-                            "type": "folder",
-                            "contents": [
-                                {
-                                    "name": "EQHD1~EQUIPMENT HANGING DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "EQHD2~EQUIPMENT HANGING DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "GUHD~GAS UNIT HEATER DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "IHMD1~INFRARED HEATER MOUNTING DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "IHMD2~INFRARED HEATER MOUNTING DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "INDOORSS~INDOOR UNIT MOUNTING DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "SWEXH~SIDEWALL EXHAUST DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "TSED~TYPICAL SUSPENDED EQUIPMENT DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "UHD~UNIT HEATER HANGING DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "WHFCD~WALL HUNG FAN COIL DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "WMAHUMD~WALL MOUNT AH MOUNTING DETAIL.dwg",
-                                    "type": "file"
-                                }
-                            ]
-                        },
-                        {
-                            "name": "ROOF MOUNTED",
-                            "type": "folder",
-                            "contents": [
-                                {
-                                    "name": "ACCUMDR~AIR COOLED CHILLER UNIT MOUNTING DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "AHUMDR1~AHU MOUNTING DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "AHUMDR2~AHU MOUNTING DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "AHUMDR3~AHU MOUNTING DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "AHUSI~AHU SPRING ISOLATED MOUNTING DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "BMDR~BOILER MOUNTING DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "CDUMDR~CONDENSING UNIT MOUNTING DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "CONDMDR1~CONDENSING UNIT MOUNTING DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "CONDMDR2~CONDENSING UNIT MOUNTING DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "CSSMD~CENTRIFUGAL SOLID SEPARATOR MOUNTING DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "CTFD~COOLING TOWER FILTER DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "CTMDR~COOLING TOWER MOUNTING DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "ECDR~EVAPORATIVE COOLER DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "GVD~GRAVITY VENTILATOR DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "GVMDR~GRAVITY VENT MOUNTING DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "ISOREFDR~ISOLATION ROOM EXHAUST FAN DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "MEFD1~MUSHROOM EXHAUST FAN DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "MEFD2~MUSHROOM EXHAUST FAN DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "plot.log",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "RTUCD~ROOFTOP UNIT CURB DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "UEFD1~UPBLAST EXHAUST FAN DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "UEFD2~UPBLAST EXHAUST FAN DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "USEFDR~UTILITY SET EXHAUST FAN DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "USEFD~UTILITY SET EXHAUST FAN DETAIL - RAIL.bak",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "USEFD~UTILITY SET EXHAUST FAN DETAIL - RAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "VCONDMDR~VERTICAL CONDENSING UNIT MOUNTING DETAIL.dwg",
-                                    "type": "file"
-                                }
-                            ]
-                        },
-                        {
-                            "name": "SLAB OR GRADE",
-                            "type": "folder",
-                            "contents": [
-                                {
-                                    "name": "AFMD~AXIAL FAN MOUNTING DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "AHUMD~AHU MOUNTING DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "ASMD~AIR SEPARATOR MOUNTING DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "BMD1~BOILER MOUNTING DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "BMD2~BOILER MOUNTING DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "BVD~BOILER VENT DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "CCWCD~TYPICAL CHILLER CONDENSER WATER CONNECTION DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "CDNTD~CONDENSATE NEUTRALIZER TANK DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "CONDMDS1~CONDENSING UNIT MOUNTING DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "CONDMDS2~CONDENSING UNIT MOUNTING DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "CPFD~CHEMICAL POT FEEDER.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "CTCSSD~COOLING TOWER CENTRIFUGAL SOLID SEPARATOR DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "CTMDS~COOLING TOWER MOUNTING DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "DWD~DRYWELL DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "ETMD~EXPANSION TANK MOUNTING DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "IASD1~INLINE AIR SEPARATOR DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "IASD2~INLINE AIR SEPARATOR DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "IPD~INLINE PUMP DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "IPESD~INLINE PUMP WITH END SUCTION DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "ISCPID~ISOLATED SPLIT CASE PUMP INSTALLATION DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "PTAC1~PTAC UNIT MOUNTING DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "PTAC2~PTAC UNIT WITH SUB-BASE MOUNTING DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "SCAHUA~DATA CENTER AH UNIT ASSEMBLY.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "VFDMD1~VFD MOUNTING DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "VFDMD2~VFD MOUNTING DETAIL.dwg",
-                                    "type": "file"
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "200 Duct",
-                    "type": "folder",
-                    "contents": [
-                        {
-                            "name": "CEILING OR WALL",
-                            "type": "folder",
-                            "contents": [
-                                {
-                                    "name": "ADCD1~AIR DISTRIBUTION CONNECTION DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "ADCDEL~AIR DISTRIBUTION ELBOW CONNECTION DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "ADCDP~AIR DISTRIBUTION PLENUM CONNECTION DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "ARTB1~ ACOUSTIC RETURN TRANSFER BOOT.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "ARTB2~ ACOUSTIC RETURN TRANSFER BOOT.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "ARTB3~ ACOUSTIC RETURN TRANSFER BOOT.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "BDTD~BRANCH DUCT TAKEOFF DETAIL - (MILITARY).dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "BDTD~BRANCH DUCT TAKEOFF DETAIL - (NON-MILITARY).dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "CFSMKDPR~ CEILING FIRE SMOKE DAMPER DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "DCD~DUCT CONNECTION DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "DFRWD~ DUCT THRU FIRE RATED WALL DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "DNFRWD~ DUCT THRU NON-RATED WALL DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "DSDC~ DUCT SUPPORT DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "DTCMU~ DUCT PENETRATION THRU CMU WALL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "DTWFD~ DUCT THRU WIRE FENCE DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "DUBD~ DUCT UNDER BEAM DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "FLEXEXJ~ FLEXIBLE DUCT CONNECTION AT EXPANSION JOINT.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "IN-DIS-DETAIL~VAV CAV INLET AND DISCHARGE DUCT DETAIL.bak",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "IN-DIS-DETAIL~VAV CAV INLET AND DISCHARGE DUCT DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "MVD1~MANUAL VOLUME DAMPER LOCATION.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "PRGD1~ 1-WAY PLENUM RETURN GRILLE DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "PRGD2~ 2-WAY PLENUM RETURN GRILLE DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "RBDTD~ROUND BRANCH DUCT TAKEOFF DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "SCB~ SECURITY BAR DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "SDD~ SPLITTER DAMPER DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "SRCD~SIDEWALL REGISTER CONNECTION DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "VAVCAVCLERNCE~ VAV CAV TERMINAL CONTROL CLEARANCE DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "VAVCAVUD~VAV CAV TERMINAL UNIT DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "VVD~ VENTURI VALVE DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "WFSDD~WALL FIRE SMOKE DAMPER DETAIL.bak",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "WFSDD~WALL FIRE SMOKE DAMPER DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "ZDUCT~Z DUCT THROUGH SECURE WALL DETAIL.dwg",
-                                    "type": "file"
-                                }
-                            ]
-                        },
-                        {
-                            "name": "ROOF MOUNTED",
-                            "type": "folder",
-                            "contents": [
-                                {
-                                    "name": "DWDD~DOUBLE WALL DUCT DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "DWDSD~DOUBLE WALL DUCT SLOPE DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "FTRD~FLUE THRU ROOF DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "GND~GOOSENECK DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "HD~HOOD DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "IESC~INTAKE OR EXHAUST STORM COVER.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "RDSD1~ROOF DUCT SUPPORT DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "RDSD2~ROOF DUCT SUPPORT DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "SRSD~STANCHION ROOF SUPPORT DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "VEDD~VEHICLE EXHAUST DISCHARGE DETAIL.dwg",
-                                    "type": "file"
-                                }
-                            ]
-                        },
-                        {
-                            "name": "UNDERGROUND",
-                            "type": "folder",
-                            "contents": [
-                                {
-                                    "name": "UERD~UNDERGROUND EXHAUST RISER DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "UTDTD~UNDERGROUND TYPICAL DUCT TAKE-OFF DETAIL.dwg",
-                                    "type": "file"
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "300 Piping",
-                    "type": "folder",
-                    "contents": [
-                        {
-                            "name": "CEILING OR WALL",
-                            "type": "folder",
-                            "contents": [
-                                {
-                                    "name": "AGDD~ AIR GAP DRAIN DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "EJD~ EXPANSION JOINT DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "ETASPD~ EXPANSION TANK + AIR SEPARATOR  PIPING DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "PMWS~ PIPE MOUNTED WALL SUPPORT.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "PSD~ PIPE SUPPORT DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "PTENRWD~ PIPE THRU EXTERIOR NON-RATED WALL DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "PTFRWD~ PIPE THRU FIRE RATED WALL DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "PTNRWD1~ PIPE THRU NON-RATED WALL DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "PTNRWD2~ PIPE THRU NON-RATED WALL DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "PTNRWD3~ PIPE THRU NON-RATED WALL DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "REFPD1~ REFRIGERANT PIPING DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "REFPD2~ REFRIGERANT PIPING DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "RRPTW~ REFRIGERANT RELIEF PIPE THRU WALL.dwg",
-                                    "type": "file"
-                                }
-                            ]
-                        },
-                        {
-                            "name": "HTHW",
-                            "type": "folder",
-                            "contents": [
-                                {
-                                    "name": "EID~ELBOW INSULATION DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "FID~FLANGE INSULATION DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "ISVPD~INSULATION SUPPORT RING FOR VERTICAL PIPE DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "PID~PIPE INSULATION DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "VID~VALVE INSULATION DETAIL.dwg",
-                                    "type": "file"
-                                }
-                            ]
-                        },
-                        {
-                            "name": "MISC",
-                            "type": "folder",
-                            "contents": [
-                                {
-                                    "name": "CCD1~COIL CONNECTION DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "CCD2~COIL CONNECTION DETAIL.bak",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "CCNVD~COIL CONNECTION NON VAV DETAIL.bak",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "CCNVD~COIL CONNECTION NON VAV DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "CP~PIPE SUPPORTED PUMP DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "CTFBPD~COOLING TOWER FILTER BASIN PIPING DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "CTFPD~COOLING TOWER FILTER PIPING DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "CTMWDPD~COOLING TOWER MAKE-UP WATER AND DRAIN PIPING DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "DCCD~DUAL COIL CONNECTION DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "EFGCD~EQUIPMENT FUEL GAS CONNECTION DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "WCPD~WATER CHILLER PIPING DETAIL.dwg",
-                                    "type": "file"
-                                }
-                            ]
-                        },
-                        {
-                            "name": "ROOF MOUNTED",
-                            "type": "folder",
-                            "contents": [
-                                {
-                                    "name": "PDASMFD~PIPING AND DUCT ANCHOR SUPPORT MOMENT FRAME DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "PRPD~PIPING ROOF PENETRATION DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "PSDR1~PIPE SUPPORT DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "PSDR2~PIPE SUPPORT DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "PSDR3~PIPE SUPPORT DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "PSFDR~PIPING ON STRUCTURAL FRAME DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "PTRD~PIPING THROUGH ROOF DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "PWSDR~PIPE WALL SUPPORT DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "RMPSD1~ROOF MOUNTED PIPE SUPPORT DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "RMPSD2~ROOF MOUNTED PIPE SUPPORT DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "RMPSD3~ROOF MOUNTED PIPE SUPPORT DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "RMRPSD~ROOF MOUNTED REFRIGERANT PIPE SUPPORT DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "RPRPD~REFRIGERANT PIPING ROOF PENETRATION DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "RPSD~ROOF PIPE SUPPORT DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "SPDR~SEISMIC PIPING DETAIL.dwg",
-                                    "type": "file"
-                                }
-                            ]
-                        },
-                        {
-                            "name": "SLAB OR GRADE",
-                            "type": "folder",
-                            "contents": [
-                                {
-                                    "name": "BCHFJD~BURIED CHW & HHW FIELD JOINT DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "BCPTBD~BURIED CHW PIPING THRUST BLOCK DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "CHFJD~CHW & HHW FIELD JOINT DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "ESPD1~END SUCTION PUMP DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "ESPD2~END SUCTION PUMP DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "GESD~GLAND & END SEAL DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "PSDS~PIPE SUPPORT DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "PTS~PIPE TRENCH SECTION.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "PVD~PIPE VAULT DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "SSL~BURIED CHW STRAIGHT LENGTH.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "TBD~THRUST BLOCK DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "VIPD~VERTICAL INLINE PUMP DETAIL.dwg",
-                                    "type": "file"
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "400 Specialty",
-                    "type": "folder",
-                    "contents": [
-                        {
-                            "name": "MISC",
-                            "type": "folder",
-                            "contents": [
-                                {
-                                    "name": "BISD~BOLLARD IN SOIL DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "GPSD~GAS PRESSURE SERVICE DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "HRMD~HOSE REEL MOUNTING DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "ORCAVTD~OPERATING ROOM CONSTANT AIR VOLUME TERMINAL DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "SMKFDIPD~SMOKE FIRE DAMPER INDICATING PLATE DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "SVD~SPOT VENTILATION DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "TSMD~TEMPERATURE SENSOR MOUNTING DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "VAVFHD~VAV FUME HOOD DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "WDVD~WASHER DISINFECTOR VENT DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "WWD~WET WELL DETAIL.dwg",
-                                    "type": "file"
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "500 Steam",
-                    "type": "folder",
-                    "contents": [
-                        {
-                            "name": "MISC",
-                            "type": "folder",
-                            "contents": [
-                                {
-                                    "name": "DCD~DRAIN COOLER DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "DCPD~DUPLEX CONDENSATE PUMP DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "ESHD~ELECTRICAL STEAM HUMIDIFIER DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "PRSD~PRESSURE REDUCING STATION DETAIL (STEAM).dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "SGMD~STEAM GENERATOR MOUNTING DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "SGPD~STEAM GENERATOR PIPING DIAGRAM.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "SHCPD~STEAM HEATING COIL PIPING DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "SHD1~STEAM HUMIDIFIER DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "SHD2~STEAM HUMIDIFIER DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "STAD1~STEAM TRAP ASSEMBLY DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "STAD2~STEAM TRAP ASSEMBLY DETAIL.dwg",
-                                    "type": "file"
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "600 Controls",
-                    "type": "folder",
-                    "contents": [
-                        {
-                            "name": "ALL",
-                            "type": "folder",
-                            "contents": [
-                                {
-                                    "name": "1PHM~TYPICAL SINGLE PHASE MOTOR CONTROL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "3PHM~TYPICAL THREE PHASE MOTOR CONTROL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "AHUCV~AHU CONSTANT VOLUME DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "CL~CONTROLS LEGEND.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "DDCALG~DDC ARCHITECTURE LARGE FACILITY.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "DDCASM~DDC ARCHITECTURE SMALL FACILITY.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "DDCA~DDC ARCHITECTURE.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "DDC~DDC CONTROLLER.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "DDMB~DUAL DUCT MIXING BOX CONTROL DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "DOAS~DEDICATED OUTDOOR AIR SYSTEM UNIT CONTROL DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "FCC~FAN COIL DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "FCED~FAN COIL WITH ECONOMIZER DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "FCMU~FAN COIL MAKE-UP AIR DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "LABFH~TYPICAL LAB CONTROL WITH VAV FUME HOOD.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "LABOSA~LAB 100% OSA AIR HANDLING UNIT CONTROL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "LAB~TYPICAL LAB CONTROL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "LEFC~LAB EXHAUST FAN CONTROL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "NDDCA~NEW DDC ARCHITECTURE.bak",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "NDDCA~NEW DDC ARCHITECTURE.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "PACVAV~VAV PACKAGED AC UNIT CONTROL DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "SSACU~SPLIT SYSTEM AIR CONDITIONING UNIT CONTROL DIAGRAM.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "TCC~TYPICAL CHILLER CONTROL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "TCM~THERMOSTATICALLY CONTROLLED MOTOR.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "VAVRH~VAV WITH REHEAT CONTROL DIAGRAM.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "VFD~TYPICAL VFD CONTROL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "VRFSS~VRF SPLIT SYSTEM DX SYSTEM DETAIL.dwg",
-                                    "type": "file"
-                                }
-                            ]
-                        },
-                        {
-                            "name": "FLOW DIAGRAM",
-                            "type": "folder",
-                            "contents": [
-                                {
-                                    "name": "Archive",
-                                    "type": "folder",
-                                    "contents": [
-                                        {
-                                            "name": "HVAC_CONTROLS_M655~HEATING HOT WATER FLOW DIAGRAM.dwg",
-                                            "type": "file"
-                                        },
-                                        {
-                                            "name": "HVAC_CONTROLS_M656~HEATING HOT WATER FLOW CONTROLS DIAGRAM.dwg",
-                                            "type": "file"
-                                        }
-                                    ]
-                                },
-                                {
-                                    "name": "CDWCD~CONDENSER WATER FLOW CONTROLS DIAGRAM.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "CDWFD~CONDENSER WATER FLOW DIAGRAM.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "CHWCD~CHILLED WATER FLOW CONTROLS DIAGRAM.bak",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "CHWCD~CHILLED WATER FLOW CONTROLS DIAGRAM.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "CHWFD1~CHILLED WATER FLOW DIAGRAM.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "CHWFD~CHILLED WATER FLOW DIAGRAM.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "HHWCD~HEATING HOT WATER FLOW CONTROLS DIAGRAM.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "HHWFD~HEATING HOT WATER FLOW DIAGRAM.dwg",
-                                    "type": "file"
-                                }
-                            ]
-                        },
-                        {
-                            "name": "SC",
-                            "type": "folder",
-                            "contents": [
-                                {
-                                    "name": "4-Pipe Fan Coil.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "AHU - Hydronic VAV (Sepearte OSA).dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "AHU - Hydronic VAV.bak",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "AHU - Hydronic VAV.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "AHU - Packaged VAV.bak",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "AHU - Packaged VAV.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "Exhaust Fan.bak",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "Exhaust Fan.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "HHW System.bak",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "HHW System.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "Packaged Single Zone - Return Fan.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "Packaged Single Zone - Supply Fan Only.bak",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "Packaged Single Zone - Supply Fan Only.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "Split System.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "VAV Box - Electric.bak",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "VAV Box - Electric.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "VAV Box - HHW.bak",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "VAV Box - HHW.dwg",
-                                    "type": "file"
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "700 Kitchen",
-                    "type": "folder",
-                    "contents": [
-                        {
-                            "name": "MISC",
-                            "type": "folder",
-                            "contents": [
-                                {
-                                    "name": "GDFWD~GREASE DUCT FIRE WRAP.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "KEFD~KITCHEN EXHUAST FAN DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "KGEDD~KITCHEN GREASE EXHAUST DUCT DETAIL.dwg",
-                                    "type": "file"
-                                }
-                            ]
-                        }
-                    ]
-                }
+              {
+                "name": "CEILING OR WALL",
+                "type": "folder",
+                "contents": [
+                  {
+                    "name": "EQHD1~EQUIPMENT HANGING DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Equipment", "Mounting", "Ceiling or Wall"]
+                  },
+                  {
+                    "name": "EQHD2~EQUIPMENT HANGING DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Equipment", "Mounting", "Ceiling or Wall"]
+                  },
+                  {
+                    "name": "GUHD~GAS UNIT HEATER DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Heating Equipment", "Gas Unit Heaters", "Ceiling or Wall"]
+                  },
+                  {
+                    "name": "IHMD1~INFRARED HEATER MOUNTING DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Heating Equipment", "Infrared Heaters", "Ceiling or Wall"]
+                  },
+                  {
+                    "name": "IHMD2~INFRARED HEATER MOUNTING DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Heating Equipment", "Infrared Heaters", "Ceiling or Wall"]
+                  },
+                  {
+                    "name": "INDOORSS~INDOOR UNIT MOUNTING DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Equipment", "Indoor Units", "Ceiling or Wall"]
+                  },
+                  {
+                    "name": "SWEXH~SIDEWALL EXHAUST DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Ventilation", "Exhaust Systems", "Sidewall", "Ceiling or Wall"]
+                  },
+                  {
+                    "name": "TSED~TYPICAL SUSPENDED EQUIPMENT DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Equipment", "Mounting", "Suspended", "Ceiling or Wall"]
+                  },
+                  {
+                    "name": "UHD~UNIT HEATER HANGING DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Heating Equipment", "Unit Heaters", "Ceiling or Wall"]
+                  },
+                  {
+                    "name": "WHFCD~WALL HUNG FAN COIL DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Cooling Equipment", "Fan Coil Units", "Ceiling or Wall"]
+                  },
+                  {
+                    "name": "WMAHUMD~WALL MOUNT AH MOUNTING DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Air Handling Units", "Mounting", "Ceiling or Wall"]
+                  }
+                ]
+              },
+              {
+                "name": "ROOF MOUNTED",
+                "type": "folder",
+                "contents": [
+                  {
+                    "name": "ACCUMDR~AIR COOLED CHILLER UNIT MOUNTING DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Cooling Equipment", "Air-Cooled Chillers", "Roof Mounted"]
+                  },
+                  {
+                    "name": "AHUMDR1~AHU MOUNTING DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Air Handling Units", "Mounting", "Roof Mounted"]
+                  },
+                  {
+                    "name": "AHUMDR2~AHU MOUNTING DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Air Handling Units", "Mounting", "Roof Mounted"]
+                  },
+                  {
+                    "name": "AHUMDR3~AHU MOUNTING DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Air Handling Units", "Mounting", "Roof Mounted"]
+                  },
+                  {
+                    "name": "AHUSI~AHU SPRING ISOLATED MOUNTING DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Air Handling Units", "Vibration Isolation", "Roof Mounted"]
+                  },
+                  {
+                    "name": "BMDR~BOILER MOUNTING DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Heating Equipment", "Boilers", "Roof Mounted"]
+                  },
+                  {
+                    "name": "CDUMDR~CONDENSING UNIT MOUNTING DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Cooling Equipment", "Condensing Units", "Roof Mounted"]
+                  },
+                  {
+                    "name": "CONDMDR1~CONDENSING UNIT MOUNTING DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Cooling Equipment", "Condensing Units", "Roof Mounted"]
+                  },
+                  {
+                    "name": "CONDMDR2~CONDENSING UNIT MOUNTING DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Cooling Equipment", "Condensing Units", "Roof Mounted"]
+                  },
+                  {
+                    "name": "CSSMD~CENTRIFUGAL SOLID SEPARATOR MOUNTING DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Filtration Equipment", "Solid Separators", "Roof Mounted"]
+                  },
+                  {
+                    "name": "CTFD~COOLING TOWER FILTER DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Cooling Towers", "Filters", "Roof Mounted"]
+                  },
+                  {
+                    "name": "CTMDR~COOLING TOWER MOUNTING DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Cooling Towers", "Mounting", "Roof Mounted"]
+                  },
+                  {
+                    "name": "ECDR~EVAPORATIVE COOLER DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Cooling Equipment", "Evaporative Coolers", "Roof Mounted"]
+                  },
+                  {
+                    "name": "GVD~GRAVITY VENTILATOR DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Ventilation", "Gravity Ventilators", "Roof Mounted"]
+                  },
+                  {
+                    "name": "GVMDR~GRAVITY VENT MOUNTING DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Ventilation", "Gravity Ventilators", "Mounting", "Roof Mounted"]
+                  },
+                  {
+                    "name": "ISOREFDR~ISOLATION ROOM EXHAUST FAN DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Ventilation", "Exhaust Fans", "Isolation Rooms", "Roof Mounted"]
+                  },
+                  {
+                    "name": "MEFD1~MUSHROOM EXHAUST FAN DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Ventilation", "Exhaust Fans", "Mushroom Type", "Roof Mounted"]
+                  },
+                  {
+                    "name": "MEFD2~MUSHROOM EXHAUST FAN DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Ventilation", "Exhaust Fans", "Mushroom Type", "Roof Mounted"]
+                  },
+                  {
+                    "name": "RTUCD~ROOFTOP UNIT CURB DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Equipment Mounting", "Rooftop Units", "Curbs", "Roof Mounted"]
+                  },
+                  {
+                    "name": "UEFD1~UPBLAST EXHAUST FAN DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Ventilation", "Exhaust Fans", "Upblast", "Roof Mounted"]
+                  },
+                  {
+                    "name": "UEFD2~UPBLAST EXHAUST FAN DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Ventilation", "Exhaust Fans", "Upblast", "Roof Mounted"]
+                  },
+                  {
+                    "name": "USEFDR~UTILITY SET EXHAUST FAN DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Ventilation", "Exhaust Fans", "Utility Set", "Roof Mounted"]
+                  },
+                  {
+                    "name": "USEFD~UTILITY SET EXHAUST FAN DETAIL - RAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Ventilation", "Exhaust Fans", "Utility Set", "Roof Mounted", "Rails"]
+                  },
+                  {
+                    "name": "VCONDMDR~VERTICAL CONDENSING UNIT MOUNTING DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Cooling Equipment", "Condensing Units", "Vertical", "Roof Mounted"]
+                  }
+                ]
+              },
+              {
+                "name": "SLAB OR GRADE",
+                "type": "folder",
+                "contents": [
+                  {
+                    "name": "AFMD~AXIAL FAN MOUNTING DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Fans", "Axial Fans", "Mounting", "Slab or Grade"]
+                  },
+                  {
+                    "name": "AHUMD~AHU MOUNTING DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Air Handling Units", "Mounting", "Slab or Grade"]
+                  },
+                  {
+                    "name": "ASMD~AIR SEPARATOR MOUNTING DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Filtration Equipment", "Air Separators", "Mounting", "Slab or Grade"]
+                  },
+                  {
+                    "name": "BMD1~BOILER MOUNTING DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Heating Equipment", "Boilers", "Mounting", "Slab or Grade"]
+                  },
+                  {
+                    "name": "BMD2~BOILER MOUNTING DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Heating Equipment", "Boilers", "Mounting", "Slab or Grade"]
+                  },
+                  {
+                    "name": "BVD~BOILER VENT DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Heating Equipment", "Boilers", "Ventilation", "Slab or Grade"]
+                  },
+                  {
+                    "name": "CCWCD~TYPICAL CHILLER CONDENSER WATER CONNECTION DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Chillers", "Condenser Water", "Piping Connections"]
+                  },
+                  {
+                    "name": "CDNTD~CONDENSATE NEUTRALIZER TANK DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Condensate Systems", "Neutralizer Tanks", "Slab or Grade"]
+                  },
+                  {
+                    "name": "CONDMDS1~CONDENSING UNIT MOUNTING DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Cooling Equipment", "Condensing Units", "Mounting", "Slab or Grade"]
+                  },
+                  {
+                    "name": "CONDMDS2~CONDENSING UNIT MOUNTING DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Cooling Equipment", "Condensing Units", "Mounting", "Slab or Grade"]
+                  },
+                  {
+                    "name": "CPFD~CHEMICAL POT FEEDER.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Chemical Treatment", "Pot Feeders", "Slab or Grade"]
+                  },
+                  {
+                    "name": "CTCSSD~COOLING TOWER CENTRIFUGAL SOLID SEPARATOR DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Cooling Towers", "Solid Separators", "Slab or Grade"]
+                  },
+                  {
+                    "name": "CTMDS~COOLING TOWER MOUNTING DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Cooling Towers", "Mounting", "Slab or Grade"]
+                  },
+                  {
+                    "name": "DWD~DRYWELL DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Piping", "Drywell", "Slab or Grade"]
+                  },
+                  {
+                    "name": "ETMD~EXPANSION TANK MOUNTING DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Piping Components", "Expansion Tanks", "Mounting", "Slab or Grade"]
+                  },
+                  {
+                    "name": "IASD1~INLINE AIR SEPARATOR DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Filtration Equipment", "Air Separators", "Inline", "Slab or Grade"]
+                  },
+                  {
+                    "name": "IASD2~INLINE AIR SEPARATOR DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Filtration Equipment", "Air Separators", "Inline", "Slab or Grade"]
+                  },
+                  {
+                    "name": "IPD~INLINE PUMP DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Pumps", "Inline Pumps", "Slab or Grade"]
+                  },
+                  {
+                    "name": "IPESD~INLINE PUMP WITH END SUCTION DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Pumps", "Inline Pumps", "End Suction", "Slab or Grade"]
+                  },
+                  {
+                    "name": "ISCPID~ISOLATED SPLIT CASE PUMP INSTALLATION DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Pumps", "Split Case Pumps", "Isolation", "Slab or Grade"]
+                  },
+                  {
+                    "name": "PTAC1~PTAC UNIT MOUNTING DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Cooling Equipment", "PTAC Units", "Mounting", "Slab or Grade"]
+                  },
+                  {
+                    "name": "PTAC2~PTAC UNIT WITH SUB-BASE MOUNTING DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Cooling Equipment", "PTAC Units", "Sub-Base", "Mounting", "Slab or Grade"]
+                  },
+                  {
+                    "name": "SCAHUA~DATA CENTER AH UNIT ASSEMBLY.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Air Handling Units", "Data Centers", "Assembly"]
+                  },
+                  {
+                    "name": "VFDMD1~VFD MOUNTING DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Electrical Components", "Variable Frequency Drives", "Mounting"]
+                  },
+                  {
+                    "name": "VFDMD2~VFD MOUNTING DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Electrical Components", "Variable Frequency Drives", "Mounting"]
+                  }
+                ]
+              }
             ]
-        },
-        {
-            "name": "PLUMBING (GOVT 1-8)",
+          },
+          {
+            "name": "200 Duct",
             "type": "folder",
             "contents": [
-                {
-                    "name": "100 Equipment",
-                    "type": "folder",
-                    "contents": [
-                        {
-                            "name": "CEILING OR WALL",
-                            "type": "folder",
-                            "contents": [
-                                {
-                                    "name": "BFPWMD~BACKFLOW PREVENTER MOUNTING DETAIL.bak",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "BFPWMD~BACKFLOW PREVENTER MOUNTING DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "hardcopy.log",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "TMVSD~THERMOSTATIC MIXING VALVE STATION.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "WMBD1~WASHING MACHINE BOX DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "WMBD2~WASHING MACHINE BOX DETAIL (LINT TRAP).dwg",
-                                    "type": "file"
-                                }
-                            ]
-                        },
-                        {
-                            "name": "SLAB OR GRADE",
-                            "type": "folder",
-                            "contents": [
-                                {
-                                    "name": "ACD~AIR COMPRESSOR DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "BD~BOLLARD DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "BFP1~BACKFLOW PREVENTER.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "BFP2~BACKFLOW PREVENTER.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "CDND~CONDENSATE NEUTRALIZER TANK DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "DETMD~EXPANSION TANK MOUNTING DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "DWBHD~DISHWASHER BOOSTER HEATER DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "DWD~DRYWELL DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "GID1~GREASE INTERCEPTOR DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "IHWHD1~SINGLE USE INSTA-HOT WATER HEATER DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "IHWHD2~INSTANTANEOUS WATER HEATER DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "LID~LINT INTERCEPTOR DETAIL.bak",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "LID~LINT INTERCEPTOR DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "O2MD~OXYGEN MANIFOLD DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "SNDOD~SAND OIL INTERCEPTOR.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "SPD~SUMP PUMP DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "STERD~STERILIZER DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "TRD~TANK RESTRAINT DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "VPD~VACUUM PUMP DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "WSD~WATER SOFTNER DETAIL.dwg",
-                                    "type": "file"
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "200 Fixtures",
-                    "type": "folder",
-                    "contents": [
-                        {
-                            "name": "CEILING OR WALL",
-                            "type": "folder",
-                            "contents": [
-                                {
-                                    "name": "EEFWD~EMERGENCY EYE AND FACE WASH DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "EEWSHWRCD~EMERGENCY EYEWASH AND SHOWER DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "ESHWRD~EMERGENCY SHOWER EYEWASH DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "ESHWRTMVD~EMERGENCY SHOWER EYEWASH (TMV) DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "MTPD~MULTIPLE TRAP PRIMER DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "plot.log",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "PSTPD~TRAP PRIMER DETAIL (PRESSURE SENSED).dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "TSTPD~TRAP PRIMER DETAIL (TIMER).dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "WBD~WASHER BOX DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "WCOD~WALL CLEANOUT DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "WHAD~WATER HAMMER ARRESTOR DETAIL.bak",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "WHAD~WATER HAMMER ARRESTOR DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "WHBD~WALL HOSE BIBB WITH RECESSED BOX DETAIL.bak",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "WHBD~WALL HOSE BIBB WITH RECESSED BOX DETAIL.dwg",
-                                    "type": "file"
-                                }
-                            ]
-                        },
-                        {
-                            "name": "ROOF MOUNTED",
-                            "type": "folder",
-                            "contents": [
-                                {
-                                    "name": "RHB~ROOF HOSEBIBB.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "RRD~ROOF RECEPTOR DETAIL.dwg",
-                                    "type": "file"
-                                }
-                            ]
-                        },
-                        {
-                            "name": "SLAB OR GRADE",
-                            "type": "folder",
-                            "contents": [
-                                {
-                                    "name": "CDFDD~CONDENSATE FRENCH DRAIN DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "FCVD~FOOT CONTROL VALVE.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "FD1~FLOOR DRAIN DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "FD2~FLOOR DRAIN DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "YH~YARD HYDRANT DETAIL.dwg",
-                                    "type": "file"
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "300 Piping",
-                    "type": "folder",
-                    "contents": [
-                        {
-                            "name": "CEILING OR WALL",
-                            "type": "folder",
-                            "contents": [
-                                {
-                                    "name": "ACCDD~CONDENSATE DRAIN DETAIL (ABOVE CEILING).dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "ANCHRGD~ALL DIRECTIONAL ANCHOR DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "BVA~BALANCING VALVE ASSEMBLY.bak",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "BVA~BALANCING VALVE ASSEMBLY.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "CDLAVD~CONDENSATE DRAIN TO LAVATORY DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "CDMSD~CONDENSATE DRAIN TO MOP SINK DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "MUWPD~MAKE-UP WATER PIPING DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "OCDDPD~OVERFLOW CONDENSATE DRIP PAN DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "PEXPD~PIPING EXPANSION JOINT.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "PNRWD~PIPING THRU NON RATED WALL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "PRWD~PIPING THRU RATED WALL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "PTCMUWD~PIPE THRU CMU WALL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "PTSSD~TYPICAL PIPE THROUGH STUD SUPPORT DETAIL.dwg",
-                                    "type": "file"
-                                }
-                            ]
-                        },
-                        {
-                            "name": "ROOF MOUNTED",
-                            "type": "folder",
-                            "contents": [
-                                {
-                                    "name": "CDTRPD~CONDENSATE TRAP DETAIL.bak",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "CDTRPD~CONDENSATE TRAP DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "VTRD1~VENT THRU ROOF DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "VTRD2~VENT THRU ROOF DETAIL.dwg",
-                                    "type": "file"
-                                }
-                            ]
-                        },
-                        {
-                            "name": "SLAB OR GRADE",
-                            "type": "folder",
-                            "contents": [
-                                {
-                                    "name": "2WAYGCD~2 WAY EXTERIOR GRADE CLEANOUT.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "BDWTSD~BURIED DOMESTIC WATER TRENCH SECTION.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "CDTRPD2~CONDENSATE TRAP DETAIL.bak",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "CDTRPD2~CONDENSATE TRAP DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "EQGCD~EQUIPMENT GAS CONNECTION DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "FCOD~FLOOR CLEANOUT.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "GMD1~GAS METER DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "GMD2~GAS METER DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "GPSD~GAS PRESSURE SERVICE DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "GRD~GAS RISER DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "MCWSOVA~MAIN WATER SHUTOFF VALVE ASSEMBLY WITH HOSE BIBB.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "PRVIVBD~PRESSURE REDUCING VALVE IN VALVE BOX.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "TPCD~TRAP PRIMER CONNECTION DETAIL.dwg",
-                                    "type": "file"
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "400 System Piping Diagrams",
-                    "type": "folder",
-                    "contents": [
-                        {
-                            "name": "DI",
-                            "type": "folder",
-                            "contents": [
-                                {
-                                    "name": "DI~DEIONIZED WATER SYSTEM PIPING DETAIL.dwg",
-                                    "type": "file"
-                                }
-                            ]
-                        },
-                        {
-                            "name": "SOLAR",
-                            "type": "folder",
-                            "contents": [
-                                {
-                                    "name": "WHP~WATER HEATER & TANK PIPING DETAIL.dwg",
-                                    "type": "file"
-                                }
-                            ]
-                        },
-                        {
-                            "name": "WH",
-                            "type": "folder",
-                            "contents": [
-                                {
-                                    "name": "hardcopy.log",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "TMV~THERMOSTATIC MIXING VALVE STATION DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "WH1~WATER HEATER & TANK PIPING DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "WH2~WATER HEATER & TANK PIPING DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "WH3~WATER HEATER & TANK PIPING DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "WH4~WATER HEATER & TANK PIPING DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "WH5~WATER HEATER & TANK PIPING DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "WH6~WATER HEATER & TANK PIPING DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "WH7~WATER HEATER & TANK PIPING DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "WH8~WATER HEATER & TANK PIPING DETAIL.dwg",
-                                    "type": "file"
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "500 Misc",
-                    "type": "folder",
-                    "contents": [
-                        {
-                            "name": "MISC",
-                            "type": "folder",
-                            "contents": [
-                                {
-                                    "name": "GID~GREASE INTERCEPTOR DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "ISLANDVD~ISLAND VENT DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "PLUMBING_MISC_P1502~FUME HOOD DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "PLUMBING_MISC_P1503~EMERGENCY GAS SHUT-OFF MOUNTING DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "PLUMBING_MISC_P1504~DOMESTIC HOT WATER TEMPERATURE SENSOR.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "PLUMBING_MISC_P1505~HOOD DILUTION TANK DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "PLUMBING_MISC_P1506~ACID NEUTRALIZATION TANK DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "PLUMBING_MISC_P1511~COMPRESSED AIR TOOL STATION DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "PLUMBING_MISC_P1512~GREASE TRAP DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "PLUMBING_MISC_P1513~DUPLEX MEDICAL AIR COMPRESSOR SYSTEM DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "SUMPD~SUMP PIT DETAIL.dwg",
-                                    "type": "file"
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "name": "600 Pumps",
-                    "type": "folder",
-                    "contents": [
-                        {
-                            "name": "MISC",
-                            "type": "folder",
-                            "contents": [
-                                {
-                                    "name": "PLUMBING_PUMPS_P1601~ELEVATOR SUMP PUMP DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "PLUMBING_PUMPS_P1602~END SUCTION PUMP (GRADE) DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "PLUMBING_PUMPS_P1603~END SUCTION PUMP (ROOF) DETAIL.dwg",
-                                    "type": "file"
-                                },
-                                {
-                                    "name": "PLUMBING_PUMPS_P1604~INLINE PUMP MOUTING DETAIL (CEILING).dwg",
-                                    "type": "file"
-                                }
-                            ]
-                        }
-                    ]
-                }
+              {
+                "name": "CEILING OR WALL",
+                "type": "folder",
+                "contents": [
+                  {
+                    "name": "ADCD1~AIR DISTRIBUTION CONNECTION DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Ductwork", "Air Distribution", "Connections", "Ceiling or Wall"]
+                  },
+                  {
+                    "name": "ADCDEL~AIR DISTRIBUTION ELBOW CONNECTION DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Ductwork", "Elbows", "Connections", "Ceiling or Wall"]
+                  },
+                  {
+                    "name": "ADCDP~AIR DISTRIBUTION PLENUM CONNECTION DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Ductwork", "Plenum Connections", "Ceiling or Wall"]
+                  },
+                  {
+                    "name": "ARTB1~ ACOUSTIC RETURN TRANSFER BOOT.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Ductwork", "Acoustic Treatment", "Return Air", "Ceiling or Wall"]
+                  },
+                  {
+                    "name": "ARTB2~ ACOUSTIC RETURN TRANSFER BOOT.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Ductwork", "Acoustic Treatment", "Return Air", "Ceiling or Wall"]
+                  },
+                  {
+                    "name": "ARTB3~ ACOUSTIC RETURN TRANSFER BOOT.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Ductwork", "Acoustic Treatment", "Return Air", "Ceiling or Wall"]
+                  },
+                  {
+                    "name": "BDTD~BRANCH DUCT TAKEOFF DETAIL - (MILITARY).dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Ductwork", "Branch Takeoffs", "Military", "Ceiling or Wall"]
+                  },
+                  {
+                    "name": "BDTD~BRANCH DUCT TAKEOFF DETAIL - (NON-MILITARY).dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Ductwork", "Branch Takeoffs", "Ceiling or Wall"]
+                  },
+                  {
+                    "name": "CFSMKDPR~ CEILING FIRE SMOKE DAMPER DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Ductwork", "Fire Dampers", "Ceiling or Wall"]
+                  },
+                  {
+                    "name": "DCD~DUCT CONNECTION DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Ductwork", "Connections", "Ceiling or Wall"]
+                  },
+                  {
+                    "name": "DFRWD~ DUCT THRU FIRE RATED WALL DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Ductwork", "Wall Penetrations", "Fire Rated", "Ceiling or Wall"]
+                  },
+                  {
+                    "name": "DNFRWD~ DUCT THRU NON-RATED WALL DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Ductwork", "Wall Penetrations", "Non-Rated", "Ceiling or Wall"]
+                  },
+                  {
+                    "name": "DSDC~ DUCT SUPPORT DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Ductwork", "Supports", "Ceiling or Wall"]
+                  },
+                  {
+                    "name": "DTCMU~ DUCT PENETRATION THRU CMU WALL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Ductwork", "Wall Penetrations", "CMU Wall", "Ceiling or Wall"]
+                  },
+                  {
+                    "name": "DTWFD~ DUCT THRU WIRE FENCE DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Ductwork", "Fence Penetrations", "Ceiling or Wall"]
+                  },
+                  {
+                    "name": "DUBD~ DUCT UNDER BEAM DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Ductwork", "Routing", "Under Beam", "Ceiling or Wall"]
+                  },
+                  {
+                    "name": "FLEXEXJ~ FLEXIBLE DUCT CONNECTION AT EXPANSION JOINT.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Ductwork", "Expansion Joints", "Flexible Connections"]
+                  },
+                  {
+                    "name": "IN-DIS-DETAIL~VAV CAV INLET AND DISCHARGE DUCT DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Ductwork", "VAV/CAV Systems", "Inlet and Discharge"]
+                  },
+                  {
+                    "name": "MVD1~MANUAL VOLUME DAMPER LOCATION.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Ductwork", "Dampers", "Manual Volume Dampers"]
+                  },
+                  {
+                    "name": "PRGD1~ 1-WAY PLENUM RETURN GRILLE DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Air Distribution", "Grilles", "Return Air", "1-Way"]
+                  },
+                  {
+                    "name": "PRGD2~ 2-WAY PLENUM RETURN GRILLE DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Air Distribution", "Grilles", "Return Air", "2-Way"]
+                  },
+                  {
+                    "name": "RBDTD~ROUND BRANCH DUCT TAKEOFF DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Ductwork", "Branch Takeoffs", "Round Ducts"]
+                  },
+                  {
+                    "name": "SCB~ SECURITY BAR DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Ductwork", "Security Bars"]
+                  },
+                  {
+                    "name": "SDD~ SPLITTER DAMPER DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Ductwork", "Dampers", "Splitter Dampers"]
+                  },
+                  {
+                    "name": "SRCD~SIDEWALL REGISTER CONNECTION DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Air Distribution", "Registers", "Sidewall", "Connections"]
+                  },
+                  {
+                    "name": "VAVCAVCLERNCE~ VAV CAV TERMINAL CONTROL CLEARANCE DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Controls", "VAV/CAV Systems", "Clearance"]
+                  },
+                  {
+                    "name": "VAVCAVUD~VAV CAV TERMINAL UNIT DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Equipment", "VAV/CAV Terminal Units"]
+                  },
+                  {
+                    "name": "VVD~ VENTURI VALVE DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Ductwork", "Valves", "Venturi Valves"]
+                  },
+                  {
+                    "name": "WFSDD~WALL FIRE SMOKE DAMPER DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Ductwork", "Fire Dampers", "Wall Mounted"]
+                  },
+                  {
+                    "name": "ZDUCT~Z DUCT THROUGH SECURE WALL DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Ductwork", "Wall Penetrations", "Secure Walls"]
+                  }
+                ]
+              },
+              {
+                "name": "ROOF MOUNTED",
+                "type": "folder",
+                "contents": [
+                  {
+                    "name": "DWDD~DOUBLE WALL DUCT DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Ductwork", "Double Wall", "Roof Mounted"]
+                  },
+                  {
+                    "name": "DWDSD~DOUBLE WALL DUCT SLOPE DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Ductwork", "Double Wall", "Slope", "Roof Mounted"]
+                  },
+                  {
+                    "name": "FTRD~FLUE THRU ROOF DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Ventilation", "Flues", "Roof Penetrations"]
+                  },
+                  {
+                    "name": "GND~GOOSENECK DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Ventilation", "Goosenecks", "Roof Mounted"]
+                  },
+                  {
+                    "name": "HD~HOOD DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Ventilation", "Hoods", "Roof Mounted"]
+                  },
+                  {
+                    "name": "IESC~INTAKE OR EXHAUST STORM COVER.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Ventilation", "Storm Covers", "Roof Mounted"]
+                  },
+                  {
+                    "name": "RDSD1~ROOF DUCT SUPPORT DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Ductwork", "Supports", "Roof Mounted"]
+                  },
+                  {
+                    "name": "RDSD2~ROOF DUCT SUPPORT DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Ductwork", "Supports", "Roof Mounted"]
+                  },
+                  {
+                    "name": "SRSD~STANCHION ROOF SUPPORT DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Supports", "Stanchion", "Roof Mounted"]
+                  },
+                  {
+                    "name": "VEDD~VEHICLE EXHAUST DISCHARGE DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Ventilation", "Vehicle Exhaust", "Roof Mounted"]
+                  }
+                ]
+              },
+              {
+                "name": "UNDERGROUND",
+                "type": "folder",
+                "contents": [
+                  {
+                    "name": "UERD~UNDERGROUND EXHAUST RISER DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Ductwork", "Underground", "Exhaust Risers"]
+                  },
+                  {
+                    "name": "UTDTD~UNDERGROUND TYPICAL DUCT TAKE-OFF DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Ductwork", "Underground", "Take-Offs"]
+                  }
+                ]
+              }
             ]
-        },
-        {
-            "name": "ALL MECH DETAILS.dwg",
-            "type": "file"
-        },
-        {
-            "name": "ALL MECH DETAILS.pdf",
-            "type": "file"
-        },
-        {
-            "name": "ALL MECH DETAILS_recover.adt",
-            "type": "file"
-        },
-        {
-            "name": "ALL MECH DETAILS_recover.dwg",
-            "type": "file"
-        },
-        {
-            "name": "ALL MECH FLOW & CONTROLS DIAGRAMS.dwg",
-            "type": "file"
-        },
-        {
-            "name": "ALL MECH FLOW & CONTROLS DIAGRAMS.pdf",
-            "type": "file"
-        },
-        {
-            "name": "ALL PLUMB DETAILS.dwg",
-            "type": "file"
-        },
-        {
-            "name": "ALL PLUMB DETAILS.pdf",
-            "type": "file"
-        },
-        {
-            "name": "SC STANDARD DETAILS.ds$",
-            "type": "file"
-        },
-        {
-            "name": "SC STANDARD DETAILS.dst",
-            "type": "file"
-        }
+          },
+          {
+            "name": "300 Piping",
+            "type": "folder",
+            "contents": [
+              {
+                "name": "CEILING OR WALL",
+                "type": "folder",
+                "contents": [
+                  {
+                    "name": "AGDD~ AIR GAP DRAIN DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Piping", "Drains", "Air Gap", "Ceiling or Wall"]
+                  },
+                  {
+                    "name": "EJD~ EXPANSION JOINT DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Piping", "Expansion Joints", "Ceiling or Wall"]
+                  },
+                  {
+                    "name": "ETASPD~ EXPANSION TANK + AIR SEPARATOR  PIPING DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Piping", "Expansion Tanks", "Air Separators", "Ceiling or Wall"]
+                  },
+                  {
+                    "name": "PMWS~ PIPE MOUNTED WALL SUPPORT.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Piping", "Supports", "Wall Mounted"]
+                  },
+                  {
+                    "name": "PSD~ PIPE SUPPORT DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Piping", "Supports", "Ceiling or Wall"]
+                  },
+                  {
+                    "name": "PTENRWD~ PIPE THRU EXTERIOR NON-RATED WALL DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Piping", "Wall Penetrations", "Non-Rated", "Exterior Walls"]
+                  },
+                  {
+                    "name": "PTFRWD~ PIPE THRU FIRE RATED WALL DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Piping", "Wall Penetrations", "Fire Rated"]
+                  },
+                  {
+                    "name": "PTNRWD1~ PIPE THRU NON-RATED WALL DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Piping", "Wall Penetrations", "Non-Rated"]
+                  },
+                  {
+                    "name": "PTNRWD2~ PIPE THRU NON-RATED WALL DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Piping", "Wall Penetrations", "Non-Rated"]
+                  },
+                  {
+                    "name": "PTNRWD3~ PIPE THRU NON-RATED WALL DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Piping", "Wall Penetrations", "Non-Rated"]
+                  },
+                  {
+                    "name": "REFPD1~ REFRIGERANT PIPING DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Piping", "Refrigerant Piping"]
+                  },
+                  {
+                    "name": "REFPD2~ REFRIGERANT PIPING DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Piping", "Refrigerant Piping"]
+                  },
+                  {
+                    "name": "RRPTW~ REFRIGERANT RELIEF PIPE THRU WALL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Piping", "Refrigerant Piping", "Wall Penetrations"]
+                  }
+                ]
+              },
+              {
+                "name": "HTHW",
+                "type": "folder",
+                "contents": [
+                  {
+                    "name": "EID~ELBOW INSULATION DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Piping", "Insulation", "Elbows", "HTHW"]
+                  },
+                  {
+                    "name": "FID~FLANGE INSULATION DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Piping", "Insulation", "Flanges", "HTHW"]
+                  },
+                  {
+                    "name": "ISVPD~INSULATION SUPPORT RING FOR VERTICAL PIPE DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Piping", "Insulation", "Vertical Pipes", "HTHW"]
+                  },
+                  {
+                    "name": "PID~PIPE INSULATION DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Piping", "Insulation", "HTHW"]
+                  },
+                  {
+                    "name": "VID~VALVE INSULATION DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Piping", "Insulation", "Valves", "HTHW"]
+                  }
+                ]
+              },
+              {
+                "name": "MISC",
+                "type": "folder",
+                "contents": [
+                  {
+                    "name": "CCD1~COIL CONNECTION DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Piping", "Coil Connections"]
+                  },
+                  {
+                    "name": "CCNVD~COIL CONNECTION NON VAV DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Piping", "Coil Connections", "Non-VAV"]
+                  },
+                  {
+                    "name": "CP~PIPE SUPPORTED PUMP DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Pumps", "Pipe Supported"]
+                  },
+                  {
+                    "name": "CTFBPD~COOLING TOWER FILTER BASIN PIPING DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Cooling Towers", "Piping", "Filter Basin"]
+                  },
+                  {
+                    "name": "CTFPD~COOLING TOWER FILTER PIPING DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Cooling Towers", "Piping", "Filters"]
+                  },
+                  {
+                    "name": "CTMWDPD~COOLING TOWER MAKE-UP WATER AND DRAIN PIPING DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Cooling Towers", "Piping", "Make-Up Water", "Drains"]
+                  },
+                  {
+                    "name": "DCCD~DUAL COIL CONNECTION DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Piping", "Coil Connections", "Dual Coils"]
+                  },
+                  {
+                    "name": "EFGCD~EQUIPMENT FUEL GAS CONNECTION DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Piping", "Fuel Gas Connections"]
+                  },
+                  {
+                    "name": "WCPD~WATER CHILLER PIPING DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Chillers", "Piping"]
+                  }
+                ]
+              },
+              {
+                "name": "ROOF MOUNTED",
+                "type": "folder",
+                "contents": [
+                  {
+                    "name": "PDASMFD~PIPING AND DUCT ANCHOR SUPPORT MOMENT FRAME DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Supports", "Piping and Duct", "Moment Frame", "Roof Mounted"]
+                  },
+                  {
+                    "name": "PRPD~PIPING ROOF PENETRATION DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Piping", "Roof Penetrations"]
+                  },
+                  {
+                    "name": "PSDR1~PIPE SUPPORT DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Piping", "Supports", "Roof Mounted"]
+                  },
+                  {
+                    "name": "PSDR2~PIPE SUPPORT DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Piping", "Supports", "Roof Mounted"]
+                  },
+                  {
+                    "name": "PSDR3~PIPE SUPPORT DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Piping", "Supports", "Roof Mounted"]
+                  },
+                  {
+                    "name": "PSFDR~PIPING ON STRUCTURAL FRAME DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Piping", "Supports", "Structural Frame", "Roof Mounted"]
+                  },
+                  {
+                    "name": "PTRD~PIPING THROUGH ROOF DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Piping", "Roof Penetrations"]
+                  },
+                  {
+                    "name": "PWSDR~PIPE WALL SUPPORT DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Piping", "Supports", "Wall Mounted", "Roof Mounted"]
+                  },
+                  {
+                    "name": "RMPSD1~ROOF MOUNTED PIPE SUPPORT DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Piping", "Supports", "Roof Mounted"]
+                  },
+                  {
+                    "name": "RMPSD2~ROOF MOUNTED PIPE SUPPORT DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Piping", "Supports", "Roof Mounted"]
+                  },
+                  {
+                    "name": "RMPSD3~ROOF MOUNTED PIPE SUPPORT DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Piping", "Supports", "Roof Mounted"]
+                  },
+                  {
+                    "name": "RMRPSD~ROOF MOUNTED REFRIGERANT PIPE SUPPORT DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Piping", "Supports", "Refrigerant Piping", "Roof Mounted"]
+                  },
+                  {
+                    "name": "RPRPD~REFRIGERANT PIPING ROOF PENETRATION DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Piping", "Refrigerant Piping", "Roof Penetrations"]
+                  },
+                  {
+                    "name": "RPSD~ROOF PIPE SUPPORT DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Piping", "Supports", "Roof Mounted"]
+                  },
+                  {
+                    "name": "SPDR~SEISMIC PIPING DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Piping", "Seismic Supports"]
+                  }
+                ]
+              },
+              {
+                "name": "SLAB OR GRADE",
+                "type": "folder",
+                "contents": [
+                  {
+                    "name": "BCHFJD~BURIED CHW & HHW FIELD JOINT DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Piping", "Buried Piping", "Field Joints", "Slab or Grade"]
+                  },
+                  {
+                    "name": "BCPTBD~BURIED CHW PIPING THRUST BLOCK DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Piping", "Buried Piping", "Thrust Blocks", "Slab or Grade"]
+                  },
+                  {
+                    "name": "CHFJD~CHW & HHW FIELD JOINT DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Piping", "Field Joints", "CHW & HHW", "Slab or Grade"]
+                  },
+                  {
+                    "name": "ESPD1~END SUCTION PUMP DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Pumps", "End Suction", "Slab or Grade"]
+                  },
+                  {
+                    "name": "ESPD2~END SUCTION PUMP DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Pumps", "End Suction", "Slab or Grade"]
+                  },
+                  {
+                    "name": "GESD~GLAND & END SEAL DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Piping", "Seals", "Slab or Grade"]
+                  },
+                  {
+                    "name": "PSDS~PIPE SUPPORT DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Piping", "Supports", "Slab or Grade"]
+                  },
+                  {
+                    "name": "PTS~PIPE TRENCH SECTION.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Piping", "Trenches", "Sections"]
+                  },
+                  {
+                    "name": "PVD~PIPE VAULT DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Piping", "Vaults"]
+                  },
+                  {
+                    "name": "SSL~BURIED CHW STRAIGHT LENGTH.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Piping", "Buried Piping", "Straight Lengths"]
+                  },
+                  {
+                    "name": "TBD~THRUST BLOCK DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Piping", "Thrust Blocks"]
+                  },
+                  {
+                    "name": "VIPD~VERTICAL INLINE PUMP DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Pumps", "Vertical Inline", "Slab or Grade"]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "400 Specialty",
+            "type": "folder",
+            "contents": [
+              {
+                "name": "MISC",
+                "type": "folder",
+                "contents": [
+                  {
+                    "name": "BISD~BOLLARD IN SOIL DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Miscellaneous", "Bollards", "Soil Installation"]
+                  },
+                  {
+                    "name": "GPSD~GAS PRESSURE SERVICE DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Piping", "Gas", "Pressure Service"]
+                  },
+                  {
+                    "name": "HRMD~HOSE REEL MOUNTING DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Equipment", "Hose Reels", "Mounting"]
+                  },
+                  {
+                    "name": "ORCAVTD~OPERATING ROOM CONSTANT AIR VOLUME TERMINAL DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Air Distribution", "Operating Rooms", "CAV Terminals"]
+                  },
+                  {
+                    "name": "SMKFDIPD~SMOKE FIRE DAMPER INDICATING PLATE DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Ductwork", "Fire Dampers", "Indicating Plates"]
+                  },
+                  {
+                    "name": "SVD~SPOT VENTILATION DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Ventilation", "Spot Ventilation"]
+                  },
+                  {
+                    "name": "TSMD~TEMPERATURE SENSOR MOUNTING DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Controls", "Sensors", "Temperature Sensors", "Mounting"]
+                  },
+                  {
+                    "name": "VAVFHD~VAV FUME HOOD DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Ventilation", "Fume Hoods", "VAV"]
+                  },
+                  {
+                    "name": "WDVD~WASHER DISINFECTOR VENT DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Ventilation", "Washer Disinfectors"]
+                  },
+                  {
+                    "name": "WWD~WET WELL DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Piping", "Wet Wells"]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "500 Steam",
+            "type": "folder",
+            "contents": [
+              {
+                "name": "MISC",
+                "type": "folder",
+                "contents": [
+                  {
+                    "name": "DCD~DRAIN COOLER DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Steam Systems", "Drain Coolers"]
+                  },
+                  {
+                    "name": "DCPD~DUPLEX CONDENSATE PUMP DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Pumps", "Condensate Pumps", "Duplex"]
+                  },
+                  {
+                    "name": "ESHD~ELECTRICAL STEAM HUMIDIFIER DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Steam Systems", "Humidifiers", "Electrical"]
+                  },
+                  {
+                    "name": "PRSD~PRESSURE REDUCING STATION DETAIL (STEAM).dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Steam Systems", "Pressure Reducing Stations"]
+                  },
+                  {
+                    "name": "SGMD~STEAM GENERATOR MOUNTING DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Steam Systems", "Steam Generators", "Mounting"]
+                  },
+                  {
+                    "name": "SGPD~STEAM GENERATOR PIPING DIAGRAM.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Steam Systems", "Steam Generators", "Piping"]
+                  },
+                  {
+                    "name": "SHCPD~STEAM HEATING COIL PIPING DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Piping", "Steam Coils"]
+                  },
+                  {
+                    "name": "SHD1~STEAM HUMIDIFIER DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Steam Systems", "Humidifiers"]
+                  },
+                  {
+                    "name": "SHD2~STEAM HUMIDIFIER DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Steam Systems", "Humidifiers"]
+                  },
+                  {
+                    "name": "STAD1~STEAM TRAP ASSEMBLY DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Steam Systems", "Steam Traps", "Assemblies"]
+                  },
+                  {
+                    "name": "STAD2~STEAM TRAP ASSEMBLY DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Steam Systems", "Steam Traps", "Assemblies"]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "600 Controls",
+            "type": "folder",
+            "contents": [
+              {
+                "name": "ALL",
+                "type": "folder",
+                "contents": [
+                  {
+                    "name": "1PHM~TYPICAL SINGLE PHASE MOTOR CONTROL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Controls", "Motors", "Single Phase"]
+                  },
+                  {
+                    "name": "3PHM~TYPICAL THREE PHASE MOTOR CONTROL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Controls", "Motors", "Three Phase"]
+                  },
+                  {
+                    "name": "AHUCV~AHU CONSTANT VOLUME DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Controls", "Air Handling Units", "Constant Volume"]
+                  },
+                  {
+                    "name": "CL~CONTROLS LEGEND.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Controls", "Legend"]
+                  },
+                  {
+                    "name": "DDCALG~DDC ARCHITECTURE LARGE FACILITY.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Controls", "DDC Architecture", "Large Facility"]
+                  },
+                  {
+                    "name": "DDCASM~DDC ARCHITECTURE SMALL FACILITY.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Controls", "DDC Architecture", "Small Facility"]
+                  },
+                  {
+                    "name": "DDCA~DDC ARCHITECTURE.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Controls", "DDC Architecture"]
+                  },
+                  {
+                    "name": "DDC~DDC CONTROLLER.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Controls", "DDC Controllers"]
+                  },
+                  {
+                    "name": "DDMB~DUAL DUCT MIXING BOX CONTROL DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Controls", "Mixing Boxes", "Dual Duct"]
+                  },
+                  {
+                    "name": "DOAS~DEDICATED OUTDOOR AIR SYSTEM UNIT CONTROL DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Controls", "DOAS Units"]
+                  },
+                  {
+                    "name": "FCC~FAN COIL DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Controls", "Fan Coil Units"]
+                  },
+                  {
+                    "name": "FCED~FAN COIL WITH ECONOMIZER DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Controls", "Fan Coil Units", "Economizers"]
+                  },
+                  {
+                    "name": "FCMU~FAN COIL MAKE-UP AIR DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Controls", "Fan Coil Units", "Make-Up Air"]
+                  },
+                  {
+                    "name": "LABFH~TYPICAL LAB CONTROL WITH VAV FUME HOOD.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Controls", "Laboratories", "VAV Fume Hoods"]
+                  },
+                  {
+                    "name": "LABOSA~LAB 100% OSA AIR HANDLING UNIT CONTROL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Controls", "Laboratories", "100% Outside Air"]
+                  },
+                  {
+                    "name": "LAB~TYPICAL LAB CONTROL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Controls", "Laboratories"]
+                  },
+                  {
+                    "name": "LEFC~LAB EXHAUST FAN CONTROL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Controls", "Laboratories", "Exhaust Fans"]
+                  },
+                  {
+                    "name": "NDDCA~NEW DDC ARCHITECTURE.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Controls", "DDC Architecture", "New"]
+                  },
+                  {
+                    "name": "PACVAV~VAV PACKAGED AC UNIT CONTROL DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Controls", "Packaged AC Units", "VAV"]
+                  },
+                  {
+                    "name": "SSACU~SPLIT SYSTEM AIR CONDITIONING UNIT CONTROL DIAGRAM.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Controls", "Split Systems", "AC Units"]
+                  },
+                  {
+                    "name": "TCC~TYPICAL CHILLER CONTROL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Controls", "Chillers"]
+                  },
+                  {
+                    "name": "TCM~THERMOSTATICALLY CONTROLLED MOTOR.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Controls", "Motors", "Thermostatic"]
+                  },
+                  {
+                    "name": "VAVRH~VAV WITH REHEAT CONTROL DIAGRAM.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Controls", "VAV Systems", "Reheat"]
+                  },
+                  {
+                    "name": "VFD~TYPICAL VFD CONTROL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Controls", "Variable Frequency Drives"]
+                  },
+                  {
+                    "name": "VRFSS~VRF SPLIT SYSTEM DX SYSTEM DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Controls", "VRF Systems", "Split Systems", "DX"]
+                  }
+                ]
+              },
+              {
+                "name": "FLOW DIAGRAM",
+                "type": "folder",
+                "contents": [
+                  {
+                    "name": "Archive",
+                    "type": "folder",
+                    "contents": [
+                      {
+                        "name": "HVAC_CONTROLS_M655~HEATING HOT WATER FLOW DIAGRAM.dwg",
+                        "type": "file",
+                        "Category": ["Mechanical", "Flow Diagrams", "Heating Hot Water", "Archive"]
+                      },
+                      {
+                        "name": "HVAC_CONTROLS_M656~HEATING HOT WATER FLOW CONTROLS DIAGRAM.dwg",
+                        "type": "file",
+                        "Category": ["Mechanical", "Flow Diagrams", "Heating Hot Water", "Controls", "Archive"]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "CDWCD~CONDENSER WATER FLOW CONTROLS DIAGRAM.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Flow Diagrams", "Condenser Water", "Controls"]
+                  },
+                  {
+                    "name": "CDWFD~CONDENSER WATER FLOW DIAGRAM.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Flow Diagrams", "Condenser Water"]
+                  },
+                  {
+                    "name": "CHWCD~CHILLED WATER FLOW CONTROLS DIAGRAM.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Flow Diagrams", "Chilled Water", "Controls"]
+                  },
+                  {
+                    "name": "CHWFD1~CHILLED WATER FLOW DIAGRAM.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Flow Diagrams", "Chilled Water"]
+                  },
+                  {
+                    "name": "CHWFD~CHILLED WATER FLOW DIAGRAM.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Flow Diagrams", "Chilled Water"]
+                  },
+                  {
+                    "name": "HHWCD~HEATING HOT WATER FLOW CONTROLS DIAGRAM.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Flow Diagrams", "Heating Hot Water", "Controls"]
+                  },
+                  {
+                    "name": "HHWFD~HEATING HOT WATER FLOW DIAGRAM.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Flow Diagrams", "Heating Hot Water"]
+                  }
+                ]
+              },
+              {
+                "name": "SC",
+                "type": "folder",
+                "contents": [
+                  {
+                    "name": "4-Pipe Fan Coil.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Controls", "Fan Coil Units", "4-Pipe"]
+                  },
+                  {
+                    "name": "AHU - Hydronic VAV (Sepearte OSA).dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Controls", "Air Handling Units", "Hydronic VAV", "Separate OSA"]
+                  },
+                  {
+                    "name": "AHU - Hydronic VAV.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Controls", "Air Handling Units", "Hydronic VAV"]
+                  },
+                  {
+                    "name": "AHU - Packaged VAV.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Controls", "Air Handling Units", "Packaged VAV"]
+                  },
+                  {
+                    "name": "Exhaust Fan.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Controls", "Exhaust Fans"]
+                  },
+                  {
+                    "name": "HHW System.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Controls", "Heating Hot Water Systems"]
+                  },
+                  {
+                    "name": "Packaged Single Zone - Return Fan.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Controls", "Packaged Units", "Single Zone", "Return Fan"]
+                  },
+                  {
+                    "name": "Packaged Single Zone - Supply Fan Only.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Controls", "Packaged Units", "Single Zone", "Supply Fan"]
+                  },
+                  {
+                    "name": "Split System.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Controls", "Split Systems"]
+                  },
+                  {
+                    "name": "VAV Box - Electric.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Controls", "VAV Boxes", "Electric"]
+                  },
+                  {
+                    "name": "VAV Box - HHW.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Controls", "VAV Boxes", "Heating Hot Water"]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "700 Kitchen",
+            "type": "folder",
+            "contents": [
+              {
+                "name": "MISC",
+                "type": "folder",
+                "contents": [
+                  {
+                    "name": "GDFWD~GREASE DUCT FIRE WRAP.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Kitchen", "Ductwork", "Grease Ducts", "Fire Wrap"]
+                  },
+                  {
+                    "name": "KEFD~KITCHEN EXHUAST FAN DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Kitchen", "Ventilation", "Exhaust Fans"]
+                  },
+                  {
+                    "name": "KGEDD~KITCHEN GREASE EXHAUST DUCT DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Mechanical", "Kitchen", "Ductwork", "Grease Exhaust"]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "PLUMBING (GOVT 1-8)",
+        "type": "folder",
+        "contents": [
+          {
+            "name": "100 Equipment",
+            "type": "folder",
+            "contents": [
+              {
+                "name": "CEILING OR WALL",
+                "type": "folder",
+                "contents": [
+                  {
+                    "name": "BFPWMD~BACKFLOW PREVENTER MOUNTING DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Plumbing", "Equipment", "Backflow Preventers", "Mounting", "Ceiling or Wall"]
+                  },
+                  {
+                    "name": "TMVSD~THERMOSTATIC MIXING VALVE STATION.dwg",
+                    "type": "file",
+                    "Category": ["Plumbing", "Equipment", "Mixing Valves", "Thermostatic"]
+                  },
+                  {
+                    "name": "WMBD1~WASHING MACHINE BOX DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Plumbing", "Equipment", "Washing Machine Boxes"]
+                  },
+                  {
+                    "name": "WMBD2~WASHING MACHINE BOX DETAIL (LINT TRAP).dwg",
+                    "type": "file",
+                    "Category": ["Plumbing", "Equipment", "Washing Machine Boxes", "Lint Traps"]
+                  }
+                ]
+              },
+              {
+                "name": "SLAB OR GRADE",
+                "type": "folder",
+                "contents": [
+                  {
+                    "name": "ACD~AIR COMPRESSOR DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Plumbing", "Equipment", "Air Compressors"]
+                  },
+                  {
+                    "name": "BD~BOLLARD DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Plumbing", "Miscellaneous", "Bollards"]
+                  },
+                  {
+                    "name": "BFP1~BACKFLOW PREVENTER.dwg",
+                    "type": "file",
+                    "Category": ["Plumbing", "Equipment", "Backflow Preventers"]
+                  },
+                  {
+                    "name": "BFP2~BACKFLOW PREVENTER.dwg",
+                    "type": "file",
+                    "Category": ["Plumbing", "Equipment", "Backflow Preventers"]
+                  },
+                  {
+                    "name": "CDND~CONDENSATE NEUTRALIZER TANK DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Plumbing", "Equipment", "Condensate Neutralizer Tanks"]
+                  },
+                  {
+                    "name": "DETMD~EXPANSION TANK MOUNTING DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Plumbing", "Equipment", "Expansion Tanks", "Mounting"]
+                  },
+                  {
+                    "name": "DWBHD~DISHWASHER BOOSTER HEATER DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Plumbing", "Equipment", "Dishwashers", "Booster Heaters"]
+                  },
+                  {
+                    "name": "DWD~DRYWELL DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Plumbing", "Piping", "Drywells"]
+                  },
+                  {
+                    "name": "GID1~GREASE INTERCEPTOR DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Plumbing", "Equipment", "Grease Interceptors"]
+                  },
+                  {
+                    "name": "IHWHD1~SINGLE USE INSTA-HOT WATER HEATER DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Plumbing", "Equipment", "Water Heaters", "Instantaneous"]
+                  },
+                  {
+                    "name": "IHWHD2~INSTANTANEOUS WATER HEATER DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Plumbing", "Equipment", "Water Heaters", "Instantaneous"]
+                  },
+                  {
+                    "name": "LID~LINT INTERCEPTOR DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Plumbing", "Equipment", "Lint Interceptors"]
+                  },
+                  {
+                    "name": "O2MD~OXYGEN MANIFOLD DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Plumbing", "Medical Gas", "Oxygen Manifolds"]
+                  },
+                  {
+                    "name": "SNDOD~SAND OIL INTERCEPTOR.dwg",
+                    "type": "file",
+                    "Category": ["Plumbing", "Equipment", "Sand/Oil Interceptors"]
+                  },
+                  {
+                    "name": "SPD~SUMP PUMP DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Plumbing", "Equipment", "Sump Pumps"]
+                  },
+                  {
+                    "name": "STERD~STERILIZER DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Plumbing", "Equipment", "Sterilizers"]
+                  },
+                  {
+                    "name": "TRD~TANK RESTRAINT DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Plumbing", "Equipment", "Tank Restraints"]
+                  },
+                  {
+                    "name": "VPD~VACUUM PUMP DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Plumbing", "Equipment", "Vacuum Pumps"]
+                  },
+                  {
+                    "name": "WSD~WATER SOFTNER DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Plumbing", "Equipment", "Water Softeners"]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "200 Fixtures",
+            "type": "folder",
+            "contents": [
+              {
+                "name": "CEILING OR WALL",
+                "type": "folder",
+                "contents": [
+                  {
+                    "name": "EEFWD~EMERGENCY EYE AND FACE WASH DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Plumbing", "Fixtures", "Safety Equipment", "Eye/Face Wash", "Ceiling or Wall"]
+                  },
+                  {
+                    "name": "EEWSHWRCD~EMERGENCY EYEWASH AND SHOWER DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Plumbing", "Fixtures", "Safety Equipment", "Eye Wash", "Showers"]
+                  },
+                  {
+                    "name": "ESHWRD~EMERGENCY SHOWER EYEWASH DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Plumbing", "Fixtures", "Safety Equipment", "Showers", "Eye Wash"]
+                  },
+                  {
+                    "name": "ESHWRTMVD~EMERGENCY SHOWER EYEWASH (TMV) DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Plumbing", "Fixtures", "Safety Equipment", "Thermostatic Mixing Valves"]
+                  },
+                  {
+                    "name": "MTPD~MULTIPLE TRAP PRIMER DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Plumbing", "Fixtures", "Trap Primers", "Multiple"]
+                  },
+                  {
+                    "name": "PSTPD~TRAP PRIMER DETAIL (PRESSURE SENSED).dwg",
+                    "type": "file",
+                    "Category": ["Plumbing", "Fixtures", "Trap Primers", "Pressure Sensed"]
+                  },
+                  {
+                    "name": "TSTPD~TRAP PRIMER DETAIL (TIMER).dwg",
+                    "type": "file",
+                    "Category": ["Plumbing", "Fixtures", "Trap Primers", "Timer"]
+                  },
+                  {
+                    "name": "WBD~WASHER BOX DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Plumbing", "Fixtures", "Washer Boxes"]
+                  },
+                  {
+                    "name": "WCOD~WALL CLEANOUT DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Plumbing", "Piping", "Cleanouts", "Wall Mounted"]
+                  },
+                  {
+                    "name": "WHAD~WATER HAMMER ARRESTOR DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Plumbing", "Piping", "Water Hammer Arrestors"]
+                  },
+                  {
+                    "name": "WHBD~WALL HOSE BIBB WITH RECESSED BOX DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Plumbing", "Fixtures", "Hose Bibbs", "Wall Mounted", "Recessed"]
+                  }
+                ]
+              },
+              {
+                "name": "ROOF MOUNTED",
+                "type": "folder",
+                "contents": [
+                  {
+                    "name": "RHB~ROOF HOSEBIBB.dwg",
+                    "type": "file",
+                    "Category": ["Plumbing", "Fixtures", "Hose Bibbs", "Roof Mounted"]
+                  },
+                  {
+                    "name": "RRD~ROOF RECEPTOR DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Plumbing", "Fixtures", "Receptors", "Roof Mounted"]
+                  }
+                ]
+              },
+              {
+                "name": "SLAB OR GRADE",
+                "type": "folder",
+                "contents": [
+                  {
+                    "name": "CDFDD~CONDENSATE FRENCH DRAIN DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Plumbing", "Piping", "Drains", "French Drains"]
+                  },
+                  {
+                    "name": "FCVD~FOOT CONTROL VALVE.dwg",
+                    "type": "file",
+                    "Category": ["Plumbing", "Valves", "Foot Control"]
+                  },
+                  {
+                    "name": "FD1~FLOOR DRAIN DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Plumbing", "Fixtures", "Floor Drains"]
+                  },
+                  {
+                    "name": "FD2~FLOOR DRAIN DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Plumbing", "Fixtures", "Floor Drains"]
+                  },
+                  {
+                    "name": "YH~YARD HYDRANT DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Plumbing", "Fixtures", "Yard Hydrants"]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "300 Piping",
+            "type": "folder",
+            "contents": [
+              {
+                "name": "CEILING OR WALL",
+                "type": "folder",
+                "contents": [
+                  {
+                    "name": "ACCDD~CONDENSATE DRAIN DETAIL (ABOVE CEILING).dwg",
+                    "type": "file",
+                    "Category": ["Plumbing", "Piping", "Condensate Drains", "Above Ceiling"]
+                  },
+                  {
+                    "name": "ANCHRGD~ALL DIRECTIONAL ANCHOR DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Plumbing", "Piping", "Anchors"]
+                  },
+                  {
+                    "name": "BVA~BALANCING VALVE ASSEMBLY.dwg",
+                    "type": "file",
+                    "Category": ["Plumbing", "Valves", "Balancing Valves"]
+                  },
+                  {
+                    "name": "CDLAVD~CONDENSATE DRAIN TO LAVATORY DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Plumbing", "Piping", "Condensate Drains", "Lavatory Connection"]
+                  },
+                  {
+                    "name": "CDMSD~CONDENSATE DRAIN TO MOP SINK DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Plumbing", "Piping", "Condensate Drains", "Mop Sink Connection"]
+                  },
+                  {
+                    "name": "MUWPD~MAKE-UP WATER PIPING DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Plumbing", "Piping", "Make-Up Water"]
+                  },
+                  {
+                    "name": "OCDDPD~OVERFLOW CONDENSATE DRIP PAN DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Plumbing", "Piping", "Condensate Pans", "Overflow"]
+                  },
+                  {
+                    "name": "PEXPD~PIPING EXPANSION JOINT.dwg",
+                    "type": "file",
+                    "Category": ["Plumbing", "Piping", "Expansion Joints"]
+                  },
+                  {
+                    "name": "PNRWD~PIPING THRU NON RATED WALL.dwg",
+                    "type": "file",
+                    "Category": ["Plumbing", "Piping", "Wall Penetrations", "Non-Rated"]
+                  },
+                  {
+                    "name": "PRWD~PIPING THRU RATED WALL.dwg",
+                    "type": "file",
+                    "Category": ["Plumbing", "Piping", "Wall Penetrations", "Rated Walls"]
+                  },
+                  {
+                    "name": "PTCMUWD~PIPE THRU CMU WALL.dwg",
+                    "type": "file",
+                    "Category": ["Plumbing", "Piping", "Wall Penetrations", "CMU Walls"]
+                  },
+                  {
+                    "name": "PTSSD~TYPICAL PIPE THROUGH STUD SUPPORT DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Plumbing", "Piping", "Supports", "Stud Walls"]
+                  }
+                ]
+              },
+              {
+                "name": "ROOF MOUNTED",
+                "type": "folder",
+                "contents": [
+                  {
+                    "name": "CDTRPD~CONDENSATE TRAP DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Plumbing", "Piping", "Condensate Traps", "Roof Mounted"]
+                  },
+                  {
+                    "name": "VTRD1~VENT THRU ROOF DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Plumbing", "Piping", "Vents", "Roof Penetrations"]
+                  },
+                  {
+                    "name": "VTRD2~VENT THRU ROOF DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Plumbing", "Piping", "Vents", "Roof Penetrations"]
+                  }
+                ]
+              },
+              {
+                "name": "SLAB OR GRADE",
+                "type": "folder",
+                "contents": [
+                  {
+                    "name": "2WAYGCD~2 WAY EXTERIOR GRADE CLEANOUT.dwg",
+                    "type": "file",
+                    "Category": ["Plumbing", "Piping", "Cleanouts", "Exterior", "Two-Way"]
+                  },
+                  {
+                    "name": "BDWTSD~BURIED DOMESTIC WATER TRENCH SECTION.dwg",
+                    "type": "file",
+                    "Category": ["Plumbing", "Piping", "Buried Piping", "Trenches"]
+                  },
+                  {
+                    "name": "CDTRPD2~CONDENSATE TRAP DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Plumbing", "Piping", "Condensate Traps"]
+                  },
+                  {
+                    "name": "EQGCD~EQUIPMENT GAS CONNECTION DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Plumbing", "Piping", "Gas Connections", "Equipment"]
+                  },
+                  {
+                    "name": "FCOD~FLOOR CLEANOUT.dwg",
+                    "type": "file",
+                    "Category": ["Plumbing", "Piping", "Cleanouts", "Floor"]
+                  },
+                  {
+                    "name": "GMD1~GAS METER DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Plumbing", "Piping", "Gas Meters"]
+                  },
+                  {
+                    "name": "GMD2~GAS METER DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Plumbing", "Piping", "Gas Meters"]
+                  },
+                  {
+                    "name": "GPSD~GAS PRESSURE SERVICE DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Plumbing", "Piping", "Gas Pressure Service"]
+                  },
+                  {
+                    "name": "GRD~GAS RISER DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Plumbing", "Piping", "Gas Risers"]
+                  },
+                  {
+                    "name": "MCWSOVA~MAIN WATER SHUTOFF VALVE ASSEMBLY WITH HOSE BIBB.dwg",
+                    "type": "file",
+                    "Category": ["Plumbing", "Valves", "Main Shutoff", "Hose Bibb"]
+                  },
+                  {
+                    "name": "PRVIVBD~PRESSURE REDUCING VALVE IN VALVE BOX.dwg",
+                    "type": "file",
+                    "Category": ["Plumbing", "Valves", "Pressure Reducing", "Valve Box"]
+                  },
+                  {
+                    "name": "TPCD~TRAP PRIMER CONNECTION DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Plumbing", "Fixtures", "Trap Primers", "Connections"]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "400 System Piping Diagrams",
+            "type": "folder",
+            "contents": [
+              {
+                "name": "DI",
+                "type": "folder",
+                "contents": [
+                  {
+                    "name": "DI~DEIONIZED WATER SYSTEM PIPING DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Plumbing", "Piping Diagrams", "Deionized Water Systems"]
+                  }
+                ]
+              },
+              {
+                "name": "SOLAR",
+                "type": "folder",
+                "contents": [
+                  {
+                    "name": "WHP~WATER HEATER & TANK PIPING DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Plumbing", "Piping Diagrams", "Water Heaters", "Solar"]
+                  }
+                ]
+              },
+              {
+                "name": "WH",
+                "type": "folder",
+                "contents": [
+                  {
+                    "name": "TMV~THERMOSTATIC MIXING VALVE STATION DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Plumbing", "Valves", "Mixing Valves", "Thermostatic"]
+                  },
+                  {
+                    "name": "WH1~WATER HEATER & TANK PIPING DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Plumbing", "Piping Diagrams", "Water Heaters"]
+                  },
+                  {
+                    "name": "WH2~WATER HEATER & TANK PIPING DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Plumbing", "Piping Diagrams", "Water Heaters"]
+                  },
+                  {
+                    "name": "WH3~WATER HEATER & TANK PIPING DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Plumbing", "Piping Diagrams", "Water Heaters"]
+                  },
+                  {
+                    "name": "WH4~WATER HEATER & TANK PIPING DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Plumbing", "Piping Diagrams", "Water Heaters"]
+                  },
+                  {
+                    "name": "WH5~WATER HEATER & TANK PIPING DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Plumbing", "Piping Diagrams", "Water Heaters"]
+                  },
+                  {
+                    "name": "WH6~WATER HEATER & TANK PIPING DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Plumbing", "Piping Diagrams", "Water Heaters"]
+                  },
+                  {
+                    "name": "WH7~WATER HEATER & TANK PIPING DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Plumbing", "Piping Diagrams", "Water Heaters"]
+                  },
+                  {
+                    "name": "WH8~WATER HEATER & TANK PIPING DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Plumbing", "Piping Diagrams", "Water Heaters"]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "500 Misc",
+            "type": "folder",
+            "contents": [
+              {
+                "name": "MISC",
+                "type": "folder",
+                "contents": [
+                  {
+                    "name": "GID~GREASE INTERCEPTOR DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Plumbing", "Equipment", "Grease Interceptors"]
+                  },
+                  {
+                    "name": "ISLANDVD~ISLAND VENT DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Plumbing", "Piping", "Vents", "Island"]
+                  },
+                  {
+                    "name": "PLUMBING_MISC_P1502~FUME HOOD DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Plumbing", "Equipment", "Fume Hoods"]
+                  },
+                  {
+                    "name": "PLUMBING_MISC_P1503~EMERGENCY GAS SHUT-OFF MOUNTING DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Plumbing", "Valves", "Gas Shut-Offs", "Emergency"]
+                  },
+                  {
+                    "name": "PLUMBING_MISC_P1504~DOMESTIC HOT WATER TEMPERATURE SENSOR.dwg",
+                    "type": "file",
+                    "Category": ["Plumbing", "Sensors", "Temperature", "Domestic Hot Water"]
+                  },
+                  {
+                    "name": "PLUMBING_MISC_P1505~HOOD DILUTION TANK DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Plumbing", "Equipment", "Hood Dilution Tanks"]
+                  },
+                  {
+                    "name": "PLUMBING_MISC_P1506~ACID NEUTRALIZATION TANK DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Plumbing", "Equipment", "Acid Neutralization Tanks"]
+                  },
+                  {
+                    "name": "PLUMBING_MISC_P1511~COMPRESSED AIR TOOL STATION DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Plumbing", "Equipment", "Compressed Air Stations"]
+                  },
+                  {
+                    "name": "PLUMBING_MISC_P1512~GREASE TRAP DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Plumbing", "Equipment", "Grease Traps"]
+                  },
+                  {
+                    "name": "PLUMBING_MISC_P1513~DUPLEX MEDICAL AIR COMPRESSOR SYSTEM DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Plumbing", "Medical Gas", "Air Compressors", "Duplex"]
+                  },
+                  {
+                    "name": "SUMPD~SUMP PIT DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Plumbing", "Equipment", "Sump Pits"]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "600 Pumps",
+            "type": "folder",
+            "contents": [
+              {
+                "name": "MISC",
+                "type": "folder",
+                "contents": [
+                  {
+                    "name": "PLUMBING_PUMPS_P1601~ELEVATOR SUMP PUMP DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Plumbing", "Equipment", "Pumps", "Elevator Sump Pumps"]
+                  },
+                  {
+                    "name": "PLUMBING_PUMPS_P1602~END SUCTION PUMP (GRADE) DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Plumbing", "Equipment", "Pumps", "End Suction", "Grade"]
+                  },
+                  {
+                    "name": "PLUMBING_PUMPS_P1603~END SUCTION PUMP (ROOF) DETAIL.dwg",
+                    "type": "file",
+                    "Category": ["Plumbing", "Equipment", "Pumps", "End Suction", "Roof Mounted"]
+                  },
+                  {
+                    "name": "PLUMBING_PUMPS_P1604~INLINE PUMP MOUTING DETAIL (CEILING).dwg",
+                    "type": "file",
+                    "Category": ["Plumbing", "Equipment", "Pumps", "Inline", "Ceiling Mounted"]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
     ]
-}
+  }
+  

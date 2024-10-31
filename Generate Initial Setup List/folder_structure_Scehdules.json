@@ -3,46 +3,41 @@
     "type": "folder",
     "contents": [
         {
-            "name": "ELECTRICAL",
-            "type": "folder",
-            "contents": []
-        },
-        {
             "name": "MECHANICAL",
             "type": "folder",
             "contents": [
                 {
-                    "name": "For review",
-                    "type": "folder",
-                    "contents": []
-                },
-                {
                     "name": "AHU CHW & HHW~AHU SCHEDULE (CHW&HHW)~~.dwg",
-                    "type": "file"
+                    "type": "file",
+                    "Group": "AHU-CHW"
                 },
                 {
                     "name": "AHU DX PCKG~AHU SCHEDULE (DX PACKAGED)~~.dwg",
-                    "type": "file"
+                    "type": "file",
+                    "Group": "AHU-DX"
                 },
                 {
                     "name": "AHU MAX SND~AHU MAX SOUND LEVEL SCHEDULE~~.dwg",
-                    "type": "file"
+                    "type": "file",
+                    "Group": "AHU"
                 },
                 {
                     "name": "AIR BAL~AIR BALANCE TABLE SCHEDULE (OSHPD)~~.dwg",
-                    "type": "file"
-                },
-                {
-                    "name": "AIR DIST~AIR DISTRIBUTION SCHEDULE~~.bak",
-                    "type": "file"
+                    "type": "file",
+                    "Group": "AHU",
+                    "code":"OSHPD"
+                    
                 },
                 {
                     "name": "AIR DIST~AIR DISTRIBUTION SCHEDULE~~.dwg",
-                    "type": "file"
+                    "type": "file",
+                    "Group": "AHU",
+                    "code":"General"
                 },
                 {
                     "name": "AIR DSGN~AIR DESIGN CONDITIONS SCHEDULE~~.dwg",
-                    "type": "file"
+                    "type": "file",
+                    "Group": "AHU"
                 },
                 {
                     "name": "AIR FILT~AIR FILTER SCHEDULE~~.dwg",
@@ -51,6 +46,7 @@
                 {
                     "name": "AIR SEP~AIR SEPARATOR SCHEDULE~~.dwg",
                     "type": "file"
+                    
                 },
                 {
                     "name": "ASHRAE REFR CALC~ASHRAE STANDARD 15 REGRIGERANT COMPLIANCE CALC~~.dwg",
@@ -78,10 +74,6 @@
                 },
                 {
                     "name": "ECONO~ECONOMIZER SCHEDULE~~.dwg",
-                    "type": "file"
-                },
-                {
-                    "name": "ELEC U.HEAT~ELECTRIC UNIT HEATER SCHEDULE~~.bak",
                     "type": "file"
                 },
                 {
@@ -217,10 +209,6 @@
                     "type": "file"
                 },
                 {
-                    "name": "WSHP~WSHP SCHEDULE~~.bak",
-                    "type": "file"
-                },
-                {
                     "name": "WSHP~WSHP SCHEDULE~~.dwg",
                     "type": "file"
                 }
@@ -283,10 +271,6 @@
                     "type": "file"
                 },
                 {
-                    "name": "MEDVAC~MEDICAL VACCUM SYSTEM SCHEDULE~~.bak",
-                    "type": "file"
-                },
-                {
                     "name": "MEDVAC~MEDICAL VACCUM SYSTEM SCHEDULE~~.dwg",
                     "type": "file"
                 },
@@ -308,10 +292,6 @@
                 },
                 {
                     "name": "PEQUIP~PLUMBING EQUIPMENT SCHEDULE~~.dwg",
-                    "type": "file"
-                },
-                {
-                    "name": "PFXTR~ FIXTURE SCHEDULE~~.bak",
                     "type": "file"
                 },
                 {
